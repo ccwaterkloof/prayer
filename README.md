@@ -19,7 +19,7 @@ Jannie &amp; Marna Theunissen with Nerina &amp; Cobus
 [view](/directory/theunissen.jpg)  
 
 Diana Coetzee  
-[view](/directory/coetzeediana2.jpg)  
+[view](/directory/coetzeediana.jpg)  
 
 Caitlin Coetzee  
 [view](/directory/coetzeecaitlin.jpg)  
@@ -40,7 +40,7 @@ David &amp; Adele Hill with Hannah, Nathan, James and Sarah
 [view](/directory/hill.jpg)  
 
 Rob &amp; Yvonne Bate with Thomas, James and Lauren  
-[view](/directory/bates.jpg)  
+[view](/directory/bate.jpg)  
 
 Matthew Gardner  
 [view](/directory/matthew.jpg)  
@@ -115,7 +115,7 @@ Adrian &amp; Lynne  with Emma
 Eugene de Bruin  
 [view](/directory/eugene.jpg)  
 
-Eric &amp; Berndine Broderick
+Eric &amp; Berndine Broderick  
 [view](/directory/broderick.jpg)
 
 
