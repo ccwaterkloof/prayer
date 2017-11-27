@@ -11,7 +11,7 @@
 
 ## Maldives
 
-- Capital city: Mal&ecirc;
+- Capital city: Malé
 - 430,000 people
 - 100% Muslim
 - divorce, fear
