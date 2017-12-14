@@ -10,6 +10,8 @@ Zimbabwe [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/praye
 
 Macedonia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/macedonia.md)
 
+Japan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/japan.md)
+
 # CCW Prayer Directory
 
 Niel &amp; Jean Immelman with Emily and Rachel  
