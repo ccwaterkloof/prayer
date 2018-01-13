@@ -12,6 +12,8 @@ Macedonia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/pray
 
 Japan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/japan.md)
 
+Iran [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/iran.md)
+
 # CCW Prayer Directory
 
 Niel &amp; Jean Immelman with Emily and Rachel  
