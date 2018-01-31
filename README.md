@@ -16,6 +16,8 @@ Iran [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/sl
 
 Congo [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/congo.md)
 
+Mongolia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mongolia.md)
+
 # CCW Prayer Directory
 
 Niel &amp; Jean Immelman with Emily and Rachel  
