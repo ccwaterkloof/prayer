@@ -24,6 +24,8 @@ Angola [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/
 
 Chile [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/chile.md)
 
+Mauritania [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mauritania.md)
+
 
 # CCW Prayer Directory
 
