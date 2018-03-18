@@ -26,6 +26,8 @@ Chile [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/s
 
 Mauritania [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mauritania.md)
 
+USA [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/usa.md)
+
 
 # CCW Prayer Directory
 
