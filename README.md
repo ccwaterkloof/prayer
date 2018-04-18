@@ -28,6 +28,8 @@ Mauritania [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/pra
 
 USA [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/usa.md)
 
+Somalia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/somalia.md)
+
 
 # CCW Prayer Directory
 
