@@ -30,6 +30,8 @@ USA [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/sli
 
 Somalia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/somalia.md)
 
+Bhutan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bhutan.md)
+
 
 # CCW Prayer Directory
 
