@@ -32,6 +32,8 @@ Somalia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer
 
 Bhutan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bhutan.md)
 
+Uzbekistan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/uzbekistan.md)
+
 
 # CCW Prayer Directory
 
