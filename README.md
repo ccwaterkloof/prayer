@@ -36,6 +36,8 @@ Uzbekistan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/pra
 
 Sudan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/sudan.md)
 
+Thailand [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/thailand.md)
+
 
 # CCW Prayer Directory
 
