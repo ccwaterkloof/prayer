@@ -38,6 +38,8 @@ Sudan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/s
 
 Thailand [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/thailand.md)
 
+Comoros [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/comoros.md)
+
 
 # CCW Prayer Directory
 
