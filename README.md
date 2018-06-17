@@ -40,6 +40,8 @@ Thailand [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/praye
 
 Comoros [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/comoros.md)
 
+India [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/india.md)
+
 
 # CCW Prayer Directory
 
