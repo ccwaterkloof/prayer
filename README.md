@@ -44,6 +44,8 @@ India [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/s
 
 Belarus [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belarus.md)
 
+Papua New Guinea [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/png.md)
+
 # CCW Prayer Directory
 
 Niel &amp; Jean Immelman with Emily and Rachel  
