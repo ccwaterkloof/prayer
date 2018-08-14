@@ -11,8 +11,8 @@
 ## Libya
 
 -   Capital: Tripoli
--   7.2 million people
--   About 20 known believers
+-   7.2 million people, 20 known believers
+-   Instability and massive challenges
 -   Media evangelism
 
 ---
