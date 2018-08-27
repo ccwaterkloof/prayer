@@ -50,6 +50,8 @@ North Korea [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/pr
 
 Libya [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/libya.md)
 
+Suriname [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/suriname.md)
+
 # CCW Prayer Directory
 
 Niel &amp; Jean Immelman with Emily and Rachel  
