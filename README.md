@@ -135,14 +135,20 @@ Marko &amp; Phumeza Bangi with Siphenathi, Sisephihle &amp; Sinovuyo
 Nic &amp; Melanie Beck with Jessica and Daniel  
 [view](/directory/beck.jpg)
 
-Tim and Rachel Betrand with Louie  
+Tim and Rachel Betrand with Louie
 [view](/directory/bertrand.jpg)
+
+Soft &amp; Delsa Chipere with Megan  
+[view](/directory/chipere.jpg)
 
 Cindy Coetzee  
 [view](/directory/cindy.jpg)
 
 Leon &amp; Carmen Davids with Zoe &amp; Riley plus Karsif  
 [view](/directory/davids.jpg)
+
+Lucas &amp; Philisa Ntshwanti with Sisipho &amp; son  
+[view](/directory/ntshwanti.jpg)
 
 Nyasha Ncube  
 [view](/directory/nyasha.jpg)
