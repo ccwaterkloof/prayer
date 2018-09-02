@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Malaysia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/malaysia.md)
+
 Maldives [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/maldives.md)
 
 Syria [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/syria.md)
