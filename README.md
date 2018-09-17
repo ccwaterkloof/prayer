@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Bangladesh [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bangladesh.md)
+
 Ethiopia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/ethiopia.md)
 
 Malaysia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/malaysia.md)
