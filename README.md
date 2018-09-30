@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Russia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/russia.md)
+
 Madagascar [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/madagascar.md)
 
 Bangladesh [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bangladesh.md)
