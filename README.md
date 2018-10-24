@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Cuba [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/cuba.md)
+
 China [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/china.md)
 
 Russia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/russia.md)
