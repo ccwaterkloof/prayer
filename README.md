@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Taiwan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/taiwan.md)
+
 Malawi [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/malawi.md)
 
 Kazakhstan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/kazakhstan.md)
