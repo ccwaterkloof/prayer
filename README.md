@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Pakistan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/pakistan.md) 16+
+
 Togo [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/togo.md)
 
 Tunisia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/tunisia.md)
