@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Seychelles [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/seychelles.md)
+
 Pakistan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/pakistan.md) 16+
 
 Togo [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/togo.md)
