@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Macau [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/macau.md)
+
 Seychelles [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/seychelles.md)
 
 Pakistan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/pakistan.md) 16+
