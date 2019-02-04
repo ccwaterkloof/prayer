@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Yemen [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/yemen.md)
+
 Venezuela [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/venezuela.md) 16+
 
 Macau [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/macau.md)
