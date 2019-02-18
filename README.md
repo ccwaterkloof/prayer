@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Turkmenistan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/turkmenistan.md)
+
 Yemen [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/yemen.md)
 
 Venezuela [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/venezuela.md) 16+
