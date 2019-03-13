@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Belgium [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belgium.md)
+
 Morocco [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/morocco.md)
 
 Turkmenistan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/turkmenistan.md)
