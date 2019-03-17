@@ -15,3 +15,7 @@
 -   Rapid growth in Atheism
 -   1.2% Evangelicals and growing
 
+---
+
+![](https://f000.backblazeb2.com/file/ccw-prayer/belgium.mp4)
+
