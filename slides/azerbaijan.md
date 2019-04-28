@@ -11,7 +11,7 @@
 ## Azerbaijan
 
 -   Capital: Baku
--   31 million people
+-   10 million people
 -   Dozens of unreached towns
 -   Leaders and discipleship for growing church
 
