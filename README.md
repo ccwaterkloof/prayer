@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Burkina Faso [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/burkinafaso.md)
+
 Sri Lanka [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/srilanka.md)
 
 Azerbaijan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/azerbaijan.md)
