@@ -11,10 +11,10 @@
 ## Turkey
 
 -   Capital: Ankara
--   82 million people
--
--
+-   82 million people, 99.8% Muslim
+-   Deep bias against Christians
+-   Persecution of Kurds
 
 ---
 
-![]()
+![](https://f000.backblazeb2.com/file/ccw-prayer/turkey.mp4)
