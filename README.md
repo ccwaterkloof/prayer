@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Algeria [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/algeria.md)
+
 Iraq [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/iraq.md) PG
 
 Turkey [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/turkey.md)
