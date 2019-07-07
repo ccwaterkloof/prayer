@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Jordan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/jordan.md)
+
 Bahrain [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bahrain.md)
 
 Algeria [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/algeria.md)
