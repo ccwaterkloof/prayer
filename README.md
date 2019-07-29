@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Colombia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/colombia.md)
+
 Niger [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/niger.md)
 
 Jordan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/jordan.md)
