@@ -16,4 +16,4 @@
 -   Effective media and church planting
 
 ---
-![](https://player.vimeo.com/video/45649614)
+![](https://f000.backblazeb2.com/file/ccw-prayer/indonesia.mp4)
