@@ -17,4 +17,4 @@
 
 ---
 
-![](https://player.vimeo.com/video/23217243)
+![](https://f000.backblazeb2.com/file/ccw-prayer/vietnam.mp4)
