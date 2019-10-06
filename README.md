@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Brazil [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/brazil.md)
+
 Vietnam [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/vietnam.md)
 
 Nigeria [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/nigeria.md)
