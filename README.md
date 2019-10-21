@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Myanmar [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/myanmar.md)
+
 Mali [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mali.md)
 
 Brazil [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/brazil.md)
