@@ -12,8 +12,9 @@
 
 -   Capital: Nairobi
 -   49 million people
+-   World leaders on the track and mobile banking
 -   Christian majority to reach out
--   Bible translation efforts
+
 ---
 
 ![](https://player.vimeo.com/video/48467274)
