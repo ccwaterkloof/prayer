@@ -1,0 +1,19 @@
+### Flag
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg)
+
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/16/Location_Kenya_AU_Africa.svg)
+
+---
+
+## Kenya
+
+-   Capital: Nairobi
+-   49 million people
+-   Christian majority to reach out
+-   Bible translation efforts
+---
+
+![](https://player.vimeo.com/video/48467274)
