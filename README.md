@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Kyrgystan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/kyrgystan.md)
+
 Kenya [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/kenya.md)
 
 Myanmar [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/myanmar.md)
