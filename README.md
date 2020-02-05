@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Tajikistan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/tajikistan.md)
+
 Tanzania [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/tanzania.md)
 
 South Africa [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/south_africa.md) PG
