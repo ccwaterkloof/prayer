@@ -1,6 +1,6 @@
 # CCW Prayer Slides
 
-Côte d'Ivoire [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/coteivoire.md)
+Côte d'Ivoire [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/cotedivoire.md)
 
 Tajikistan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/tajikistan.md)
 
