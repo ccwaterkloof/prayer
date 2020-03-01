@@ -12,8 +12,9 @@
 
 -   Capital: Jerusalem
 -   9 million people
--
+-	Pray for the witness of the 2% Christians
+-	God's promises to Israel: Rom 11:24-25
 
 ---
 
-![](https://player.vimeo.com/video/22404182)
+![](https://f000.backblazeb2.com/file/ccw-prayer/israel.mp4)
