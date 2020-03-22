@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Spain [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/spain.md)
+
 Panama [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/panama.md)
 
 Guinea [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/guinea.md)
