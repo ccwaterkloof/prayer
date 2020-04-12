@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Ecuador [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/ecuador.md)
+
 Italy [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/italy.md)
 
 Spain [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/spain.md)
