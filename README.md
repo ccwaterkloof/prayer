@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+France [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/france.md)
+
 Saudi Arabia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/saudiarabia.md)
 
 Ecuador [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/ecuador.md)
