@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Egypt [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/egypt.md)
+
 France [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/france.md)
 
 Saudi Arabia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/saudiarabia.md)
@@ -159,4 +161,3 @@ North Korea [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/pr
 Libya [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/libya.md)
 
 Suriname [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/suriname.md)
-
