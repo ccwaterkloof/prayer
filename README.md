@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Bolivia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bolivia.md)
+
 Egypt [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/egypt.md)
 
 France [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/france.md)
