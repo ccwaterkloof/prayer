@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Palestine [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/palestine.md)
+
 Bolivia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bolivia.md)
 
 Egypt [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/egypt.md)
