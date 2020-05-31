@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Romania [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/romania.md)
+
 Palestine [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/palestine.md)
 
 Bolivia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bolivia.md)
