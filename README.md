@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+England [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/england.md)
+
 Philippines [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/philippines.md)
 
 Mexico [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mexico.md)
