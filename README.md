@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Central African Republic [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/car.md)
+
 England [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/england.md)
 
 Philippines [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/philippines.md)
