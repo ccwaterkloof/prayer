@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Croatia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/croatia.md)
+
 Cameroon [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/cameroon.md)
 
 Albania [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/albania.md)
