@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Mozambique [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mozambique.md)
+
 Moldova [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/moldova.md)
 
 Malta [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/malta.md)
