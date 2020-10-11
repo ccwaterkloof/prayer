@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Armenia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/armenia.md)
+
 Paraguay [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/paraguay.md)
 
 Oman [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/oman.md)
