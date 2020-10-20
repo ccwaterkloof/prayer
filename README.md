@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Sierra Leone [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/sierra_leone.md)
+
 Armenia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/armenia.md)
 
 Paraguay [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/paraguay.md)
