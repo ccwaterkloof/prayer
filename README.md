@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Sweden [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/sweden.md)
+
 South Sudan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/south_sudan.md)
 
 Slovenia [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/slovenia.md)
