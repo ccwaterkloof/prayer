@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+Timor-Leste [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/timor-leste.md)
+
 Sweden [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/sweden.md)
 
 South Sudan [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/south_sudan.md)
