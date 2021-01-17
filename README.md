@@ -1,5 +1,7 @@
 # CCW Prayer Slides
 
+South Korea [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/south_korea.md)
+
 Ukraine [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/ukraine.md)
 
 Timor-Leste [show](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/timor-leste.md)
