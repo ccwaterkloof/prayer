@@ -12,8 +12,8 @@
 
 -   Capital: Ramallah
 -   5 million people
--   Violence and extremism
 -   Persecuted Arab Christians
+-   Just settlement of the land issue
 
 ---
 
