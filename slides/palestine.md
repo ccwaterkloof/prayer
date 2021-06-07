@@ -13,10 +13,8 @@
 
 -   Capital: Ramallah
 -   5 million people, 1.6% Christians
--   Warm, welcoming, hardworking and honest
-people
--  Remarkable courage and resilience in the
-face of war
+-   Warm, welcoming, hardworking and honest people
+-  Remarkable courage and resilience in the face of war
 -   Church is zealous for revival
 
 ---
