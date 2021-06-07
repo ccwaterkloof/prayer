@@ -8,12 +8,16 @@
 
 ---
 
+![](https://res.cloudinary.com/kiekies/image/upload/v1623091704/a5lpz0t3i4anymdri7uf.jpg)
 ## Palestine
 
 -   Capital: Ramallah
--   5 million people
--   Persecuted Arab Christians
--   Just settlement of the land issue
+-   5 million people, 1.6% Christians
+-   Warm, welcoming, hardworking and honest
+people
+-  Remarkable courage and resilience in the
+face of war
+-   Church is zealous for revival
 
 ---
 
