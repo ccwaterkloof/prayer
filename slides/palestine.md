@@ -8,7 +8,7 @@
 
 ---
 
-![](https://res.cloudinary.com/kiekies/image/upload/v1623091704/a5lpz0t3i4anymdri7uf.jpg)
+![](https://res.cloudinary.com/kiekies/image/upload/v1623092312/oivkowfmsue0dkfrlfb8.jpg)
 ## Palestine
 
 -   Capital: Ramallah
