@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   hand crafted slides to help with praying for the nations of the World. 
   Our prayer app is also referenced to encourage members to pray for each
   other daily.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/prayer" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # youtube_username: channel/UCMlDaAse6VRAwCWwTDDRYKg
 facebook_username: Christ-Church-Waterkloof
