@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "CCW Prayer App"
-permalink: /app/
 ---
 
 ## Listings

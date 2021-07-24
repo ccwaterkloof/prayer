@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Alphabetical Index"
-permalink: /list/
 ---
 
 ## A
