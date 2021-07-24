@@ -111,7 +111,7 @@ Nigeria
 ## P
 
 [Pakistan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/pakistan.md) 16+  
-[Palestine](/notes/palestine.html)  
+[Palestine](notes/palestine.html)  
 [Panama](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/panama.md)  
 [Papua New Guinea](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/png.md)  
 [Paraguay](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/paraguay.md)  
