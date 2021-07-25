@@ -1,8 +1,9 @@
 ---
 layout: nation
+title: Palestine
 ---
 
-# Palestine
+### Strategic prayer
 
 - A just settlement of the land issue and the future of both Jewish settlements in the Palestinian areas and Palestinians in Israel itself. Both sides feel strong legitimate claims to the land, but their respective national aspirations are mutually exclusive.
 - The improvement of living conditions. Estimates are that 70% of Gaza lives in deep poverty and 80% are dependent upon external aid.Widespread unemployment and Israel’s imposition of economic controls prevent the majority from working their way out of poverty.

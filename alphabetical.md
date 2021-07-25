@@ -71,6 +71,7 @@ Guinea
 
 [Kazakhstan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/kazakhstan.md)  
 Kenya  
+[Kuwait](notes/kuwait.html)  
 [Kyrgystan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/kyrgystan.md)
 
 ## L
