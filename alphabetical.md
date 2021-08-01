@@ -64,6 +64,7 @@ Guinea
 
 ## J
 
+[Jamaica](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/jamaica.md)  
 [Japan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/japan.md)  
 [Jordan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/jordan.md)
 
