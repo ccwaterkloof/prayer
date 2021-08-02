@@ -15,4 +15,4 @@ title: "Jamaica"
 - [Slides](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/jamaica.md)
 - [Operation World](https://operationworld.org/locations/jamaica/)
 - [Prayercast](https://prayercast.com/jamaica.html)
-- [Stratus](https://globe.stratus.earth/country-explorer/KWT)
+- [Stratus](https://globe.stratus.earth/country-explorer/JAM)
