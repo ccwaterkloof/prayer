@@ -8,12 +8,14 @@
 
 ---
 
+![](https://res.cloudinary.com/kiekies/image/upload/v1628533110/jj8a4fm2fspe2zcv49jt.jpg)
+
 ## Myanmar
 
--   Largest city: Yangon 
--   54 million people
--   poverty, HIV and persecution
--   Resistant Burmese Buddhist majority
+- Largest city: Yangon
+- 54 million people
+- military coup since Feb 2021
+- resistant Burmese Buddhist majority
 
 ---
 
