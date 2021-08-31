@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Myanmar](/prayer/notes/myanmar.html)
+This week we are praying for [Brunei](/prayer/notes/brunei.html)
 
-If you missed it, last week was [Jamaica](/prayer/notes/jamaica.html)
+If you missed it, last week was [Myanmar](/prayer/notes/myanmar.html)
 
 ## Prayer App
 
