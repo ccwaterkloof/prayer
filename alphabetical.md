@@ -21,6 +21,7 @@ Angola
 [Bhutan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bhutan.md)  
 [Bolivia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bolivia.md)  
 [Brazil](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/brazil.md)  
+[Brunei](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/brunei.md)  
 Burkina Faso
 
 ## C
