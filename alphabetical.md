@@ -18,6 +18,7 @@ Angola
 [Bangladesh](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bangladesh.md)  
 [Belarus](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belarus.md)  
 [Belgium](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belgium.md)  
+[Belize](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belize.md)  
 [Bhutan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bhutan.md)  
 [Bolivia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bolivia.md)  
 [Brazil](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/brazil.md)  
