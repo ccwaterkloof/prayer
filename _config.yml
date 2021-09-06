@@ -32,7 +32,7 @@ facebook_username: Christ-Church-Waterkloof
 github_username: ccwaterkloof
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 # Exclude from processing.
