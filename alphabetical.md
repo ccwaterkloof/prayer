@@ -80,6 +80,7 @@ Kenya
 ## L
 
 [Laos](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/laos.md)  
+[Latvia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/latvia.md)  
 Liberia  
 [Libya](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/libya.md)
 
