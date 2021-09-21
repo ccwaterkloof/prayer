@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Latvia](/prayer/notes/latvia.html)
+This week we are praying for [Sudan](/prayer/notes/sudan.html)
 
-If you missed it, last week was [Belize](/prayer/notes/belize.html)
+If you missed it, last week was [Latvia](/prayer/notes/latvia.html)
 
 ## Prayer App
 
