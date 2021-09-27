@@ -18,11 +18,11 @@ Angola
 [Bangladesh](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bangladesh.md)  
 [Belarus](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belarus.md)  
 [Belgium](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belgium.md)  
-[Belize](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belize.md)  
+[Belize](/prayer/notes/belize.md)  
 [Bhutan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bhutan.md)  
 [Bolivia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bolivia.md)  
 [Brazil](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/brazil.md)  
-[Brunei](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/brunei.md)  
+[Brunei](/prayer/notes/brunei.md)  
 Burkina Faso
 
 ## C
@@ -66,7 +66,7 @@ Guinea
 
 ## J
 
-[Jamaica](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/jamaica.md)  
+[Jamaica](/prayer/notes/jamaica.md)  
 [Japan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/japan.md)  
 [Jordan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/jordan.md)
 
@@ -74,14 +74,15 @@ Guinea
 
 [Kazakhstan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/kazakhstan.md)  
 Kenya  
-[Kuwait](notes/kuwait.html)  
+[Kuwait](/prayer/notes/kuwait.html)  
 [Kyrgystan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/kyrgystan.md)
 
 ## L
 
 [Laos](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/laos.md)  
-[Latvia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/latvia.md)  
+[Latvia](/prayer/notes/latvia.md)  
 Liberia  
+[Lebanon](/prayer/notes/lebanon.md)
 [Libya](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/libya.md)
 
 ## M
@@ -100,7 +101,7 @@ Mauritania
 [Mongolia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mongolia.md)  
 [Morocco](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/morocco.md)  
 Mozambique  
-[Myanmar](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/myanmar.md)
+[Myanmar](/prayer/notes/myanmar.md)
 
 ## N
 
@@ -116,7 +117,7 @@ Nigeria
 ## P
 
 [Pakistan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/pakistan.md) 16+  
-[Palestine](notes/palestine.html)  
+[Palestine](/prayer/notes/palestine.html)  
 [Panama](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/panama.md)  
 [Papua New Guinea](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/png.md)  
 [Paraguay](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/paraguay.md)  
@@ -141,6 +142,7 @@ South Sudan
 [Spain](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/spain.md)  
 [Sri Lanka](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/srilanka.md)  
 Sudan  
+[Sudan](/prayer/notes/sudan.md)  
 [Suriname](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/suriname.md)  
 [Sweden](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/sweden.md)  
 [Syria](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/syria.md)
