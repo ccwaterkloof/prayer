@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Lebanon](/prayer/notes/lebanon.html)
+This week we are praying for [the launch of the Makhua Bible](/prayer/notes/makhuas.html) in Northern Mozambique
 
-If you missed it, last week was [Sudan](/prayer/notes/sudan.html)
+If you missed it, last week was [Lebanon](/prayer/notes/lebanon.html)
 
 ## Prayer App
 
