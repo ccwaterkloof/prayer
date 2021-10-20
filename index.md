@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [the launch of the Makhua Bible](/prayer/notes/makhuas.html) in Northern Mozambique
+This week we are praying for the [Afar people](https://prayercast.com/afar.html) of Ethiopia
 
-If you missed it, last week was [Lebanon](/prayer/notes/lebanon.html)
+If you missed it, last week was [the launch of the Makhua Bible](/prayer/notes/makhuas.html) in Northern Mozambique
 
 ## Prayer App
 

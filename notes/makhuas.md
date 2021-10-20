@@ -46,3 +46,7 @@ Sleep at friend's house
 **Thu, 14 Oct**
 
 07:20 Jannie flies to Cape Town, Gerard flies to PE
+
+## Photos
+
+[Some photos of the trip](https://photos.app.goo.gl/ABsBzMPZf7nhtr3t5)
