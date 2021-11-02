@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for the [Afar people](https://prayercast.com/afar.html) of Ethiopia
+This week we are praying for [Eritrea](/prayer/notes/eritrea.html)
 
-If you missed it, last week was [the launch of the Makhua Bible](/prayer/notes/makhuas.html) in Northern Mozambique
+If you missed it, last week was [Afar people](https://prayercast.com/afar.html) of Ethiopia
 
 ## Prayer App
 
