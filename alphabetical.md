@@ -10,6 +10,7 @@ title: "Alphabetical Index"
 Algeria  
 Angola  
 [Armenia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/armenia.md)  
+[Australia](/prayer/notes/australia.html)  
 [Azerbaijan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/azerbaijan.md)
 
 ## B
