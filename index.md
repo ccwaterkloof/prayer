@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Eritrea](/prayer/notes/eritrea.html)
+This week we are praying for [Australia](/prayer/notes/australia.html)
 
-If you missed it, last week was [Afar people](https://prayercast.com/afar.html) of Ethiopia
+If you missed it, last week was [Eritrea](/prayer/notes/eritrea.html)
 
 ## Prayer App
 
