@@ -123,6 +123,7 @@ Nigeria
 [Panama](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/panama.md)  
 [Papua New Guinea](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/png.md)  
 [Paraguay](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/paraguay.md)  
+[Peru](/prayer/notes/peru.html)  
 [Philippines](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/philippines.md)
 
 ## R
