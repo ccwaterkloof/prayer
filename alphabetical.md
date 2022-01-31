@@ -57,6 +57,10 @@ Ethiopia
 
 Guinea
 
+## H
+
+[Honduras](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/honduras.md)
+
 ## I
 
 [India](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/india.md)  
