@@ -130,6 +130,10 @@ Nigeria
 [Peru](/prayer/notes/peru.html)  
 [Philippines](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/philippines.md)
 
+## Q
+
+[Qatar](/prayer/notes/qatar.html)
+
 ## R
 
 [Romania](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/romania.md)  

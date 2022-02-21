@@ -7,10 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Honduras](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/honduras.md)
-Parental guidance advised for a scene around 01:34
+This week we are praying for [Qatar](/prayer/notes/qatar.html)
 
-If you missed it, last week was [Australia](/prayer/notes/australia.html)
+If you missed it, last week was [Qatar](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/honduras.md)
 
 ## Prayer App
 
