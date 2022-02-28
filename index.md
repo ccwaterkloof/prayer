@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Qatar](/prayer/notes/qatar.html)
+This week we are praying for [Estonia](/prayer/notes/estonia.html)
 
-If you missed it, last week was [Qatar](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/honduras.md)
+If you missed it, last week was [Qatar](/prayer/notes/qatar.html)
 
 ## Prayer App
 

@@ -48,6 +48,7 @@ Egypt
 [England](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/england.md)  
 Ethiopia
 [Eritrea](/prayer/notes/eritrea.html)
+[Estonia](/prayer/notes/estonia.html)
 
 ## F
 
