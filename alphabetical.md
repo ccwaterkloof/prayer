@@ -30,6 +30,7 @@ Burkina Faso
 
 [Cambodia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/cambodia.md)  
 Cameroon  
+[Canada](/prayer/notes/canada.html)  
 Central African Republic  
 Chad  
 [Chile](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/chile.md)  
