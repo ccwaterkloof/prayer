@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Estonia](/prayer/notes/estonia.html)
+This week we are praying for [Canada](/prayer/notes/canada.html)
 
-If you missed it, last week was [Qatar](/prayer/notes/qatar.html)
+If you missed it, last week was [Estonia](/prayer/notes/estonia.html)
 
 ## Prayer App
 
