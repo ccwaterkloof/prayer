@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Canada](/prayer/notes/canada.html)
+This week we are praying for [Muslim Families](https://prayercast.com/family.html)
 
-If you missed it, last week was [Estonia](/prayer/notes/estonia.html)
+If you missed it, last week was [Canada](/prayer/notes/canada.html)
 
 ## Prayer App
 
