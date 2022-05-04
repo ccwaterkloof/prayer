@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Poland](/prayer/notes/poland.html).
+This week we are praying for [North Africa Muslims](https://prayercast.com/north-africa.html)
 
-If you missed it, we last prayed for [Muslim Families](https://prayercast.com/family.html)
+If you missed it, we last prayed for [Poland](/prayer/notes/poland.html).
 
 ## Prayer App
 
