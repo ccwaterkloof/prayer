@@ -61,7 +61,8 @@ Guinea
 
 ## H
 
-[Honduras](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/honduras.md) PG
+[Honduras](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/honduras.md) PG  
+[Hong Kong, China](/prayer/notes/hongkong.html)
 
 ## I
 
