@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Hong Kong, China](/prayer/notes/hongkong.html)
+This week we are praying for [Finland](/prayer/notes/finland.html)
 
-If you missed it, we last prayed for [North Africa Muslims](https://prayercast.com/north-africa.html)
+If you missed it, we last prayed for [Hong Kong, China](/prayer/notes/hongkong.html)
 
 ## Prayer App
 
