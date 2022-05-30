@@ -58,6 +58,7 @@ Ethiopia
 
 ## G
 
+[Georgia](/prayer/notes/georgia.html)  
 Guinea
 
 ## H
