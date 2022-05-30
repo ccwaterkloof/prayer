@@ -1,6 +1,6 @@
 ### Flag
 
-![]https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg)
 
 ---
 
