@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Finland](/prayer/notes/finland.html)
+This week we are praying for [Georgia](/prayer/notes/georgia.html)
 
-If you missed it, we last prayed for [Hong Kong, China](/prayer/notes/hongkong.html)
+If you missed it, we last prayed for [Finland](/prayer/notes/finland.html)
 
 ## Prayer App
 
