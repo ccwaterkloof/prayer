@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Georgia](/prayer/notes/georgia.html)
+This week we are praying for [Argentina](https://player.vimeo.com/video/38510400)
 
-If you missed it, we last prayed for [Finland](/prayer/notes/finland.html)
+If you missed it, we last prayed for [Georgia](/prayer/notes/georgia.html)
 
 ## Prayer App
 
