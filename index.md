@@ -7,7 +7,7 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Argentina](https://player.vimeo.com/video/38510400)
+This week we are praying for [Argentina](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/argentina.md)
 
 If you missed it, we last prayed for [Georgia](/prayer/notes/georgia.html)
 

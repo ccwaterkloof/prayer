@@ -9,6 +9,7 @@ title: "Alphabetical Index"
 [Albania](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/albania.md)  
 Algeria  
 Angola  
+[Argentina](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/argentina.md)  
 [Armenia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/armenia.md)  
 [Australia](/prayer/notes/australia.html)  
 [Azerbaijan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/azerbaijan.md)
@@ -40,7 +41,8 @@ Chad
 Congo  
 [Croatia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/croatia.md)  
 [Cuba](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/cuba.md)  
-Côte d'Ivoire
+Côte d'Ivoire  
+[Czech Republic](/prayer/notes/czech-republic.html)
 
 ## E
 
