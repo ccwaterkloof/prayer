@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Argentina](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/argentina.md)
+This week we are praying for [The Czech Republic](/prayer/notes/czech-republic.html)
 
-If you missed it, we last prayed for [Georgia](/prayer/notes/georgia.html)
+If you missed it, we last prayed for [Argentina](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/argentina.md)
 
 ## Prayer App
 
