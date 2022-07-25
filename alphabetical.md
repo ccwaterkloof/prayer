@@ -74,6 +74,7 @@ Guinea
 [Indonesia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/indonesia.md)  
 [Iran](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/iran.md)  
 [Iraq](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/iraq.md) PG  
+[Ireland](/prayer/notes/ireland.html)  
 [Israel](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/israel.md)  
 [Italy](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/italy.md)
 
