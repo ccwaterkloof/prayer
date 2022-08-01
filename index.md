@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Ireland](/prayer/notes/ireland.html)
+This week we are praying for [Senegal](/prayer/notes/senegal.html)
 
-If you missed it, we last prayed for [The Czech Republic](/prayer/notes/czech-republic.html)
+If you missed it, we last prayed for [Ireland](/prayer/notes/ireland.html)
 
 ## Prayer App
 

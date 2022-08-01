@@ -8,12 +8,14 @@
 
 ---
 
+![](https://res.cloudinary.com/kiekies/image/upload/v1659289327/prayer/glbbyugkm7ekdg1ei3xm.jpg)
+
 ## Senegal
 
--   Capital: Dakar
--   16 million people
--   many unreached peoples
--   Isamic, but open door for the Gospel
+- Capital: Dakar
+- 17 million people
+- many unreached peoples
+- Isamic, but open door for the Gospel
 
 ---
 

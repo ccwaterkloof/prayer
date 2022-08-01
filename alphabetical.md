@@ -151,7 +151,7 @@ Nigeria
 ## S
 
 [Saudi Arabia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/saudiarabia.md)  
-Senegal  
+[Senegal](/prayer/notes/senegal.html)  
 [Seychelles](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/seychelles.md)  
 Sierra Leone  
 [Slovenia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/slovenia.md)  
