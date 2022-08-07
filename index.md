@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Senegal](/prayer/notes/senegal.html)
+This week Kenya is having important national elections, so let's we are praying for [Kenya](/prayer/notes/kenya.html)
 
-If you missed it, we last prayed for [Ireland](/prayer/notes/ireland.html)
+If you missed it, we last prayed for [Senegal](/prayer/notes/senegal.html)
 
 ## Prayer App
 
