@@ -1,6 +1,6 @@
 ---
 layout: nation
-title: "Senagal"
+title: "Senegal"
 ---
 
 # Strategic prayer
