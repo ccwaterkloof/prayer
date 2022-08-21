@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Scotland](/prayer/notes/scotland.html)
+This week we are praying for [Uganda](/prayer/notes/uganda.html)
 
-If you missed it, we last prayed for [Kenya](/prayer/notes/kenya.html)
+If you missed it, we last prayed for [Scotland](/prayer/notes/scotland.html)
 
 ## Prayer App
 

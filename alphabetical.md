@@ -182,6 +182,7 @@ Togo
 
 ## U
 
+[Uganda](/prayer/notes/uganda.html)  
 [Ukraine](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/ukraine.md)  
 [USA](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/usa.md)  
 [Uzbekistan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/uzbekistan.md)
