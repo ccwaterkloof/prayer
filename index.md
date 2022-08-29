@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Uganda](/prayer/notes/uganda.html)
+With the crisis of the current devastating floods, we are praying for [Pakistan](/prayer/notes/pakistan.html)
 
-If you missed it, we last prayed for [Scotland](/prayer/notes/scotland.html)
+If you missed it, we last prayed for [Uganda](/prayer/notes/uganda.html)
 
 ## Prayer App
 

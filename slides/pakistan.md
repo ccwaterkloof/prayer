@@ -8,12 +8,14 @@
 
 ---
 
+![](https://res.cloudinary.com/kiekies/image/upload/v1661751261/prayer/ykq7swp47n5b839mlgfo.jpg)
+
 ## Pakistan
 
--   Capital: Islamabad
--   213 million people
--   Strongholds of Islamist extremism
--   Intensifying persecution
+- Capital: Islamabad
+- 213 million people
+- Strongholds of Islamist extremism
+- Intensifying persecution
 
 ---
 
