@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for the [United Arab Emirates](/prayer/notes/uae.html)
+This week we are praying for [Fiji](/prayer/notes/fiji.html)
 
-If you missed it, we last prayed for [Pakistan](/prayer/notes/pakistan.html)
+If you missed it, we last prayed for [United Arab Emirates](/prayer/notes/uae.html)
 
 ## Prayer App
 

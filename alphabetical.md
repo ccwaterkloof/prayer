@@ -55,6 +55,7 @@ Ethiopia
 
 ## F
 
+[Fiji](/prayer/notes/fiji.html)  
 [Finland](/prayer/notes/finland.html)  
 [France](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/france.md)
 
