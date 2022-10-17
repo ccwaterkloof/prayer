@@ -50,6 +50,7 @@ Côte d'Ivoire
 
 [Ecuador](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/ecuador.md)  
 Egypt  
+[El Salvador](/prayer/notes/el-salvador.html)  
 [England](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/england.md)  
 Ethiopia
 [Eritrea](/prayer/notes/eritrea.html)

@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Benin](/prayer/notes/benin.html)  
+This week we are praying for [El Salvador](/prayer/notes/el-salvador.html)
 
-If you missed it, we last prayed for [Austria](/prayer/notes/austria.html)
+If you missed it, we last prayed for [Benin](/prayer/notes/benin.html)
 
 ## Prayer App
 
