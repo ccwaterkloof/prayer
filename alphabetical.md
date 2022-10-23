@@ -160,6 +160,7 @@ Nigeria
 [Senegal](/prayer/notes/senegal.html)  
 [Seychelles](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/seychelles.md)  
 Sierra Leone  
+[Singapore](/prayer/notes/singapore.html)  
 [Slovenia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/slovenia.md)  
 Somalia  
 [South Africa](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/south_africa.md) PG  
