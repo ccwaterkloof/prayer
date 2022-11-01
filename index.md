@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Singapore](/prayer/notes/singapore.html)
+This week we are praying for [Bulgaria](/prayer/notes/bulgaria.html)
 
-If you missed it, we last prayed for [El Salvador](/prayer/notes/el-salvador.html)
+If you missed it, we last prayed for [Singapore](/prayer/notes/singapore.html)
 
 ## Prayer App
 
