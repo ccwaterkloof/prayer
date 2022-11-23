@@ -11,6 +11,8 @@ This week we are praying for [Bulgaria](/prayer/notes/bulgaria.html)
 
 If you missed it, we last prayed for [Singapore](/prayer/notes/singapore.html)
 
+Trip to [Nepal](https://photos.app.goo.gl/szUSK7wyNZSQNHGc6) with [Slides](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/nepal.md)
+
 ## Prayer App
 
 Get the CCW prayer app which helps us to pray for each other. Each day the app will help us to pray for the same Kloofie member. You can also use the app to look up a member by name or see all the birthdays and anniversaries for any month of the year.
