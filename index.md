@@ -7,11 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Bulgaria](/prayer/notes/bulgaria.html)
+This week we are praying for [Djibouti](/prayer/notes/djibouti.html)
 
-If you missed it, we last prayed for [Singapore](/prayer/notes/singapore.html)
-
-Trip to [Nepal](https://photos.app.goo.gl/szUSK7wyNZSQNHGc6) with [Slides](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/nepal.md)
+If you missed it, we last prayed for [Bulgaria](/prayer/notes/bulgaria.html)
 
 ## Prayer App
 

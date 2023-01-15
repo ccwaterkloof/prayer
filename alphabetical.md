@@ -47,6 +47,10 @@ Congo
 Côte d'Ivoire  
 [Czech Republic](/prayer/notes/czech-republic.html)
 
+## D
+
+[Djibouti](/prayer/notes/djibouti.html)
+
 ## E
 
 [Ecuador](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/ecuador.md)  
