@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   other daily.
 baseurl: "/prayer" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# youtube_username: channel/UCMlDaAse6VRAwCWwTDDRYKg
+youtube_username: @christchurchwaterkloof2157
 facebook_username: Christ-Church-Waterkloof
 github_username: ccwaterkloof
 
