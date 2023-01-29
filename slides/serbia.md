@@ -16,3 +16,7 @@
 - 6.7 million people
 - ethno-religious tensions
 - witness of multi-cultural evangelicals
+
+---
+
+![](https://f000.backblazeb2.com/file/ccw-prayer/serbia.mp4)
