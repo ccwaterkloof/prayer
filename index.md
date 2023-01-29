@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Haiti](/prayer/notes/haiti.html)
+This week we are praying for [Serbia](/prayer/notes/serbia.html)
 
-If you missed it, we last prayed for [Djibouti](/prayer/notes/djibouti.html)
+If you missed it, we last prayed for [Haiti](/prayer/notes/haiti.html)
 
 ## Prayer App
 

@@ -164,6 +164,7 @@ Nigeria
 [Saudi Arabia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/saudiarabia.md)  
 [Scotland](/prayer/notes/scotland.html)  
 [Senegal](/prayer/notes/senegal.html)  
+[Serbia](/prayer/notes/serbia.html)  
 [Seychelles](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/seychelles.md)  
 Sierra Leone  
 [Singapore](/prayer/notes/singapore.html)  
