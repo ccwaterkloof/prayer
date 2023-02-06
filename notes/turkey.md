@@ -14,7 +14,7 @@ title: "Turkey"
 
 ### Links
 
-- [Slides](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/tukey.md)
+- [Slides](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/turkey.md)
 - [Operation World](https://operationworld.org/locations/tukey/)
 - [Prayercast](https://prayercast.com/tukey.html)
 - [Stratus](https://globe.stratus.earth/country-explorer/TUR)
