@@ -8,12 +8,14 @@
 
 ---
 
+![Istanbul](https://res.cloudinary.com/kiekies/image/upload/v1675710106/prayer/w3agvmr0eft66bguehad.jpg)
+
 ## Turkey
 
--   Capital: Ankara
--   82 million people, 99.8% Muslim
--   Deep bias against Christians
--   Persecution of Kurds
+- Capital: Ankara
+- 82 million people, 99.8% Muslim
+- Deep bias against Christians
+- Persecution of Kurds
 
 ---
 
