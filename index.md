@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Gabon](/prayer/notes/gabon.html)
+This week we are praying for [Syria](/prayer/notes/syria.html)
 
-If you missed it, we last prayed for [Turkey](/prayer/notes/turkey.html)
+If you missed it, we last prayed for [Gabon](/prayer/notes/gabon.html)
 
 ## Prayer App
 
