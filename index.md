@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [New Zealand](/prayer/notes/new-zealand.html)
+This week we are praying for [Slovakia](/prayer/notes/slovakia.html)
 
-If you missed it, we last prayed for [Syria](/prayer/notes/syria.html)
+If you missed it, we last prayed for [New Zealand](/prayer/notes/new-zealand.html)
 
 ## Prayer App
 
