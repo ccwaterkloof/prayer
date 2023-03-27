@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Cyprus](/prayer/notes/cyprus.html)
+This week we are praying for [Micronesia](/prayer/notes/micronesia.html)
 
-If you missed it, we last prayed for [Slovakia](/prayer/notes/slovakia.html)
+If you missed it, we last prayed for [Cyprus](/prayer/notes/cyprus.html)
 
 ## Prayer App
 

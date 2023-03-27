@@ -124,6 +124,7 @@ Mali
 [Malta](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/malta.md)  
 Mauritania  
 [Mexico](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mexico.md)  
+[Micronesia](/prayer/notes/micronesia.html)  
 [Moldova](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/moldova.md)  
 [Mongolia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mongolia.md)  
 [Morocco](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/morocco.md)  
