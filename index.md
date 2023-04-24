@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Bosnia and Herzegovina](/prayer/notes/bosnia.html)
+This week we are praying for [Mauritius](/prayer/notes/mauritius.html)
 
-If you missed it, we last prayed for [Micronesia](/prayer/notes/micronesia.html)
+If you missed it, we last prayed for [Bosnia and Herzegovina](/prayer/notes/bosnia.html)
 
 ## Prayer App
 
