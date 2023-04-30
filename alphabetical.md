@@ -212,6 +212,10 @@ Togo
 [Venezuela](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/venezuela.md) 16+  
 [Vietnam](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/vietnam.md)
 
+## W
+
+[Western Sahara](/prayer/notes/western-sahara.html)
+
 ## Y
 
 [Yemen](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/yemen.md)
