@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Dominican Republic](/prayer/notes/dominican-republic.html)
+This week we are praying for [Egypt](/prayer/notes/egypt.html)
 
-If you missed it, we last prayed for [Western Sahara](/prayer/notes/western-sahara.html)
+If you missed it, we last prayed for [Dominican Republic](/prayer/notes/dominican-republic.html)
 
 ## Prayer App
 

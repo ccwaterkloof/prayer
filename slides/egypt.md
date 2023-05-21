@@ -8,12 +8,14 @@
 
 ---
 
+![backdrop](https://res.cloudinary.com/kiekies/image/upload/v1684692274/prayer/j1t5802dzoiy54nqybbk.jpg)
+
 ## Egypt
 
--  Capital: Cairo
--  100 million, biggest Arab country
--  Renewal movement in the 12% Coptic Church
--  God's promise for Egypt in Isaiah 19
+- Capital: Cairo
+- 100 million, biggest Arab country
+- Renewal movement in the 12% Coptic Church
+- God's promise for Egypt in Isaiah 19
 
 ---
 
