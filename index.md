@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Kosovo](/prayer/notes/kosovo.html)
+This week we are praying for [Mexico](/prayer/notes/mexico.html)
 
-If you missed it, we last prayed for [Uruguay](/prayer/notes/uruguay.html)
+If you missed it, we last prayed for [Kosovo](/prayer/notes/kosovo.html)
 
 ## Prayer App
 

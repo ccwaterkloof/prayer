@@ -8,12 +8,14 @@
 
 ---
 
+![mexican people](https://res.cloudinary.com/kiekies/image/upload/v1686506553/prayer/co1v2yebipcpiwd5ly1c.jpg)
+
 ## Mexico
 
--   Capital: Mexico City
--   128 million people
--   8% evangelical Christians
--   Pray for justice and real discipleship
+- Capital: Mexico City
+- 128 million people
+- 8% evangelical Christians
+- Pray for justice and real discipleship
 
 ---
 
