@@ -140,6 +140,7 @@ Mozambique
 
 [Nepal](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/nepal.md)  
 [New Zealand](/prayer/notes/new-zealand.html)  
+[Nicaragua](/prayer/notes/nicaragua.html)  
 Niger  
 Nigeria  
 [North Korea](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/northkorea.md)
