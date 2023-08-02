@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Nicaragua](/prayer/notes/nicaragua.html)
+This week we are praying for [Greece](/prayer/notes/greece.html)
 
-If you missed it, we last prayed for [Iceland](/prayer/notes/iceland.html)
+If you missed it, we last prayed for [Nicaragua](/prayer/notes/nicaragua.html)
 
 ## Prayer App
 
