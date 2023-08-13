@@ -81,7 +81,8 @@ Guinea
 
 [Haiti](/prayer/notes/haiti.html)  
 [Honduras](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/honduras.md) PG  
-[Hong Kong, China](/prayer/notes/hongkong.html)
+[Hong Kong, China](/prayer/notes/hongkong.html)  
+[Hungary](/prayer/notes/hungary.html)
 
 ## I
 
