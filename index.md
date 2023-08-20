@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Hungary](/prayer/notes/hungary.html)
+This week we are praying for [Samoa](/prayer/notes/samoa.html)
 
-If you missed it, we last prayed for [Greece](/prayer/notes/greece.html)
+If you missed it, we last prayed for [Hungary](/prayer/notes/hungary.html)
 
 ## Prayer App
 
