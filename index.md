@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Greenland](/prayer/notes/greenland.html)
+This week we are praying for [Costa Rica](/prayer/notes/costa-rica.html)
 
-If you missed it, we last prayed for [Samoa](/prayer/notes/samoa.html)
+If you missed it, we last prayed for [Greenland](/prayer/notes/greenland.html)
 
 ## Prayer App
 
