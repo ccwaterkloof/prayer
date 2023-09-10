@@ -8,12 +8,14 @@
 
 ---
 
+![backdrop](https://res.cloudinary.com/kiekies/image/upload/v1694372967/prayer/krjnguvfsezblxnx9dht.jpg)
+
 ## Morocco
 
--   Capital: Rabat
--   36 million people
--   2000 believers
--   Pray for change of attitude of discrimination
+- Capital: Rabat
+- 36 million people
+- 2000 believers
+- Pray for change of attitude of discrimination
 
 ---
 

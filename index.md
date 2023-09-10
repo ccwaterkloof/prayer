@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Costa Rica](/prayer/notes/costa-rica.html)
+With Thursday's terrible earthquake, let's pray this week for [Morocco](/prayer/notes/morocco.md)
 
-If you missed it, we last prayed for [Greenland](/prayer/notes/greenland.html)
+If you missed it, we last prayed for [Costa Rica](/prayer/notes/costa-rica.html)
 
 ## Prayer App
 
