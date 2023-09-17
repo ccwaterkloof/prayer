@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-With Thursday's terrible earthquake, let's pray this week for [Morocco](/prayer/notes/morocco.html)
+With Thursday's terrible earthquake, let's pray this week for [Portugal](/prayer/notes/portugal.html)
 
-If you missed it, we last prayed for [Costa Rica](/prayer/notes/costa-rica.html)
+If you missed it, we last prayed for [Morocco](/prayer/notes/morocco.html)
 
 ## Prayer App
 

@@ -162,7 +162,8 @@ Nigeria
 [Paraguay](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/paraguay.md)  
 [Peru](/prayer/notes/peru.html)  
 [Philippines](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/philippines.md)  
-[Poland](/prayer/notes/poland.html)
+[Poland](/prayer/notes/poland.html)  
+[Portugal](/prayer/notes/portugal.html)
 
 ## Q
 
