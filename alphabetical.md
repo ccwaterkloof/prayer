@@ -118,7 +118,8 @@ Kenya
 [Latvia](/prayer/notes/latvia.html)  
 Liberia  
 [Lebanon](/prayer/notes/lebanon.html)  
-[Libya](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/libya.md)
+[Libya](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/libya.md)  
+[Lithuania](/prayer/notes/lithuania.html)
 
 ## M
 
