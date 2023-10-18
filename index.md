@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-With Thursday's terrible earthquake, let's pray this week for [Lithuania](/prayer/notes/lithuania.html)
+This week we pray for [Gaza](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/gaza.md)
 
-If you missed it, we last prayed for [[Portugal](/prayer/notes/portugal.html)
+If you missed it, we last prayed for [Lithuania](/prayer/notes/lithuania.html)
 
 ## Prayer App
 
