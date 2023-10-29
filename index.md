@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Gaza](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/gaza.md)
+This week we pray for [Dominica](/prayer/notes/dominica.html)
 
-If you missed it, we last prayed for [Lithuania](/prayer/notes/lithuania.html)
+If you missed it, we last prayed for [Gaza](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/gaza.md)
 
 ## Prayer App
 

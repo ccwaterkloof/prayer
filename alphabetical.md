@@ -53,6 +53,7 @@ Côte d'Ivoire
 ## D
 
 [Dominican Republic](/prayer/notes/dominican-republic.html)  
+[Dominica](/prayer/notes/dominica.html)  
 [Djibouti](/prayer/notes/djibouti.html)
 
 ## E
