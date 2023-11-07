@@ -43,6 +43,7 @@ Chad
 [Colombia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/colombia.md)  
 [Comoros](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/comoros.md)  
 Congo  
+[Costa Rica](/prayer/notes/costa-rica.html)  
 [Croatia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/croatia.md)  
 [Cuba](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/cuba.md)  
 Côte d'Ivoire  
@@ -52,6 +53,7 @@ Côte d'Ivoire
 ## D
 
 [Dominican Republic](/prayer/notes/dominican-republic.html)  
+[Dominica](/prayer/notes/dominica.html)  
 [Djibouti](/prayer/notes/djibouti.html)
 
 ## E
@@ -75,6 +77,7 @@ Ethiopia
 [Gabon](/prayer/notes/gabon.html)  
 [Georgia](/prayer/notes/georgia.html)  
 [Greece](/prayer/notes/greece.html)  
+[Greenland](/prayer/notes/greenland.html)  
 Guinea
 
 ## H
@@ -116,7 +119,8 @@ Kenya
 [Latvia](/prayer/notes/latvia.html)  
 Liberia  
 [Lebanon](/prayer/notes/lebanon.html)  
-[Libya](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/libya.md)
+[Libya](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/libya.md)  
+[Lithuania](/prayer/notes/lithuania.html)
 
 ## M
 
@@ -134,7 +138,7 @@ Mauritania
 [Micronesia](/prayer/notes/micronesia.html)  
 [Moldova](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/moldova.md)  
 [Mongolia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mongolia.md)  
-[Morocco](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/morocco.md)  
+[Morocco](/prayer/notes/morocco.html)  
 Mozambique  
 [Myanmar](/prayer/notes/myanmar.html)
 
@@ -160,7 +164,8 @@ Nigeria
 [Paraguay](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/paraguay.md)  
 [Peru](/prayer/notes/peru.html)  
 [Philippines](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/philippines.md)  
-[Poland](/prayer/notes/poland.html)
+[Poland](/prayer/notes/poland.html)  
+[Portugal](/prayer/notes/portugal.html)
 
 ## Q
 
@@ -175,6 +180,7 @@ Nigeria
 
 [Saudi Arabia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/saudiarabia.md)  
 [Samoa](/prayer/notes/samoa.html)  
+[San Marino](/prayer/notes/san-marino.html)  
 [Scotland](/prayer/notes/scotland.html)  
 [Senegal](/prayer/notes/senegal.html)  
 [Serbia](/prayer/notes/serbia.html)  

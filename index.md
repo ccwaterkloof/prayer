@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we are praying for [Samoa](/prayer/notes/samoa.html)
+This week we pray for [San Marino](/prayer/notes/san-marino.html)
 
-If you missed it, we last prayed for [Hungary](/prayer/notes/hungary.html)
+If you missed it, we last prayed for [Dominica](/prayer/notes/dominica.html)
 
 ## Prayer App
 
