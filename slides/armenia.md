@@ -8,12 +8,14 @@
 
 ---
 
+![image](https://res.cloudinary.com/kiekies/image/upload/v1700417299/prayer/jf1jzmauqqndyxovcm9i.jpg)
+
 ## Armenia
 
--   Capital: Yerevan
--   3 million people
--   war with Azerbaijan
--   Armenian diaspora helping with evangelism
+- Capital: Yerevan
+- 3 million people
+- First Christian nation
+- Upper Karabakh refugees
 
 ---
 
