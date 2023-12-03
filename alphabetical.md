@@ -174,7 +174,8 @@ Nigeria
 ## R
 
 [Romania](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/romania.md)  
-[Russia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/russia.md)
+[Russia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/russia.md)  
+[Rwanda](/prayer/notes/rwanda.html)
 
 ## S
 

@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Armenia](/prayer/notes/armenia.html)
+This week we pray for [Rwanda](/prayer/notes/rwanda.html)
 
-If you missed it, we last prayed for [San Marino](/prayer/notes/san-marino.html)
+If you missed it, we last prayed for [Armenia](/prayer/notes/armenia.html)
 
 ## Prayer App
 
