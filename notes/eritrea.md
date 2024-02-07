@@ -5,7 +5,7 @@ title: "Eritrea"
 
 # Strategic prayer
 
-Evangelicals are growing despite severe persecution. Being officially banned, these groups now operate in underground networks based in homes.Around 20 or more networks are known. Pray for these issues:
+Evangelicals are growing despite severe persecution. Being officially banned, these groups now operate in underground networks based in homes. Around 20 or more networks are known. Pray for these issues:
 
 - Imprisonment and torture are reality. Key evangelical leaders were imprisoned following the ban on their churches. Since then, arrests have included pastors, prominent evangelicals in society and, more recently, those known to practice their faith. Prison conditions are harsh – beatings and agonizing torture techniques cripple many and even lead to death in some cases. Some estimate that over 3,000 Christians are currently in prison. Pray for those in prison, that they may be strengthened and enabled to endure suffering while radiating grace. Pray also for their families, who often find themselves bereft of not only loved ones but usually of the income earner as well.
 - Leadership for the churches. With so many pastors, leaders and evangelists now living outside the country or in prisons, the Church moves forward under new leadership, often young men or new believers, some who encountered Jesus in prison. Pray for them to be full of God’s wisdom as they learn to lead and grow.
