@@ -10,11 +10,11 @@
 
 ## Slovenia
 
--   Capital: Ljubljana
--   2 million people
--   0.1% evangelical
--   Pray for unity and fervour
+- Capital: Ljubljana
+- 2 million people
+- 0.1% evangelical
+- Pray for unity and fervour
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/slovenia.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/slovenia.mp4)

@@ -10,11 +10,11 @@
 
 ## China
 
--   Capital: Beijing
--   1.4 billion people, millions unreached
--   New persecution, high abortion and suicide rates
--   Pray for sound teaching in growing church
+- Capital: Beijing
+- 1.4 billion people, millions unreached
+- New persecution, high abortion and suicide rates
+- Pray for sound teaching in growing church
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/china.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/china.mp4)

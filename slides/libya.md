@@ -10,11 +10,11 @@
 
 ## Libya
 
--   Capital: Tripoli
--   7.2 million people, 20 known believers
--   Instability and massive challenges
--   Media evangelism
+- Capital: Tripoli
+- 7.2 million people, 20 known believers
+- Instability and massive challenges
+- Media evangelism
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/libya.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/libya.mp4)

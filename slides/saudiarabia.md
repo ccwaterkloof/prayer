@@ -10,11 +10,11 @@
 
 ## Saudi Arabia
 
--   Capital: Riyadh
--   34 million people
--   No freedom of speech, press or worship
--   Growing, secret church
+- Capital: Riyadh
+- 34 million people
+- No freedom of speech, press or worship
+- Growing, secret church
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/saudiarabia.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/saudiarabia.mp4)

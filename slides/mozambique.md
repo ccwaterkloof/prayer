@@ -10,11 +10,11 @@
 
 ## Mozambique
 
--   Capital: Maputo
--   30 million people
--   ISIS insurgency, poverty
--   Pray for church leaders
+- Capital: Maputo
+- 30 million people
+- ISIS insurgency, poverty
+- Pray for church leaders
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/mozambique.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/mozambique.mp4)

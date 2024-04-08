@@ -10,11 +10,11 @@
 
 ## Italy
 
--   Capital: Rome
--   60 million people
--   Evangelical Church 1%
--   Pray for hunger for God's Word
+- Capital: Rome
+- 60 million people
+- Evangelical Church 1%
+- Pray for hunger for God's Word
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/italy.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/italy.mp4)

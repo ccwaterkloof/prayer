@@ -10,11 +10,11 @@
 
 ## North Korea
 
--   Capital: Pyongyang
--   25 million people
--   Most extreme Christian persecution
--   Pray for courage and open doors
+- Capital: Pyongyang
+- 25 million people
+- Most extreme Christian persecution
+- Pray for courage and open doors
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/northkorea.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/northkorea.mp4)

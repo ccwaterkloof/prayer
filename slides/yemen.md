@@ -10,11 +10,11 @@
 
 ## Yemen
 
--   Capital: Sana'a
--   28 million people
--   99.9% Muslim, qat addiction
--   Children forced into war and starving
+- Capital: Sana'a
+- 28 million people
+- 99.9% Muslim, qat addiction
+- Children forced into war and starving
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/yemen.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/yemen.mp4)

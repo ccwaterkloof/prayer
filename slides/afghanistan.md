@@ -10,11 +10,11 @@
 
 ## Afghanistan
 
--   Capital: Kabul
--   31 million people
--   48,000 mosques but not a single church
--   Growing, secret church
+- Capital: Kabul
+- 31 million people
+- 48,000 mosques but not a single church
+- Growing, secret church
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/afghanistan.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/afghanistan.mp4)

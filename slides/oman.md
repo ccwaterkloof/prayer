@@ -10,11 +10,11 @@
 
 ## Oman
 
--   Capital: Muscat
--   5 million people
--   77% unreached, sharing with Muslims not allowed
--   Pray for media outreach efforts
+- Capital: Muscat
+- 5 million people
+- 77% unreached, sharing with Muslims not allowed
+- Pray for media outreach efforts
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/oman.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/oman.mp4)

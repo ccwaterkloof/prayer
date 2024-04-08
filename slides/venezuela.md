@@ -10,11 +10,11 @@
 
 ## Venezuela
 
--   Capital: Caracas
--   31 million people
--   On the brink of civil war
--   Nominal Christians who can become missionaries
+- Capital: Caracas
+- 31 million people
+- On the brink of civil war
+- Nominal Christians who can become missionaries
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/venezuela.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/venezuela.mp4)

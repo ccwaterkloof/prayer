@@ -10,11 +10,11 @@
 
 ## Côte d'Ivoire
 
--   Capital: Abidjan
--   24 million people
--   third of the 106 people groups still unreached
--   Pray for a pure and bold church
+- Capital: Abidjan
+- 24 million people
+- third of the 106 people groups still unreached
+- Pray for a pure and bold church
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/cotedivoire.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/cotedivoire.mp4)

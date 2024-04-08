@@ -2,11 +2,11 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg)
 
---------------------
+---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b8/Location_Thailand_ASEAN.svg)
 
---------------------
+---
 
 ## Thailand
 
@@ -15,6 +15,6 @@
 - Open, but unreached
 - Many opportunities for the Gospel
 
---------------------
+---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/thailand.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/thailand.mp4)

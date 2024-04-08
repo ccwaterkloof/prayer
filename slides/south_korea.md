@@ -10,11 +10,11 @@
 
 ## South Korea
 
--   Capital: Seoul
--   52 million people
--   many Buddhists and Atheist to reach
--   fruit on their intl missions
+- Capital: Seoul
+- 52 million people
+- many Buddhists and Atheist to reach
+- fruit on their intl missions
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/south_korea.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/south_korea.mp4)

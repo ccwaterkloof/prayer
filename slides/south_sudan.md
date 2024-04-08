@@ -10,11 +10,11 @@
 
 ## South Sudan
 
--   Capital: Juba
--   13 million people
--   Fragile peace since February
--   Church is active in reconstruction
+- Capital: Juba
+- 13 million people
+- Fragile peace since February
+- Church is active in reconstruction
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/south_sudan.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/south_sudan.mp4)

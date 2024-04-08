@@ -10,11 +10,11 @@
 
 ## Spain
 
--   Capital: Madrid
--   47 million people
--   Dark void of secularism
--   Opportunities among the millions of immigrants
+- Capital: Madrid
+- 47 million people
+- Dark void of secularism
+- Opportunities among the millions of immigrants
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/spain.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/spain.mp4)

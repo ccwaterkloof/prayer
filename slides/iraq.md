@@ -10,11 +10,11 @@
 
 ## Iraq
 
--   Capital: Baghdad
--   37 million people
--   1% Christians, under attack
--   Discipleship of people flocking in
+- Capital: Baghdad
+- 37 million people
+- 1% Christians, under attack
+- Discipleship of people flocking in
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/iraq.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/iraq.mp4)

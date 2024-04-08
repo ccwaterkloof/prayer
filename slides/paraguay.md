@@ -10,11 +10,11 @@
 
 ## Paraguay
 
--   Capital: Asunción
--   7.3 million people
--   90% trapped in dead religionism
--   Pray for the witness of God's children
+- Capital: Asunción
+- 7.3 million people
+- 90% trapped in dead religionism
+- Pray for the witness of God's children
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/paraguay.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/paraguay.mp4)

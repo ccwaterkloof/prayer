@@ -19,4 +19,4 @@
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/hungary.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/hungary.mp4)

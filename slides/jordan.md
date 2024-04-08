@@ -10,11 +10,11 @@
 
 ## Jordan
 
--   Capital: Amman
--   10 million people
--   Refugees and fragile religious freedom
--   2% Christians for vision and boldness
+- Capital: Amman
+- 10 million people
+- Refugees and fragile religious freedom
+- 2% Christians for vision and boldness
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/jordan.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/jordan.mp4)

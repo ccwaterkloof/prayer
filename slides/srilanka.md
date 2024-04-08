@@ -10,11 +10,11 @@
 
 ## Sri Lanka
 
--   Largest city: Colombo
--   22 million people
--   Growth and maturity for the indigenous Church
--   Fruit from the recent bombings
+- Largest city: Colombo
+- 22 million people
+- Growth and maturity for the indigenous Church
+- Fruit from the recent bombings
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/srilanka.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/srilanka.mp4)

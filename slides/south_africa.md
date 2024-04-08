@@ -10,11 +10,11 @@
 
 ## South Africa
 
--   Capital: Pretoria, Bloemfontein, Cape Town
--   58 million people
--   Justice, HIV, education
--   God's Church to bring reconciliation and hope
+- Capital: Pretoria, Bloemfontein, Cape Town
+- 58 million people
+- Justice, HIV, education
+- God's Church to bring reconciliation and hope
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/south_africa.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/south_africa.mp4)

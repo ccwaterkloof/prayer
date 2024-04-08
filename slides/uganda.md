@@ -19,4 +19,4 @@
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/uganda.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/uganda.mp4)

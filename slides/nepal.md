@@ -10,11 +10,11 @@
 
 ## Nepal
 
--   Capital: Kathmandu
--   29 million people
--   Mostly Hindu with 325 unreached people groups
--   Fast growing church despite new restrictions
+- Capital: Kathmandu
+- 29 million people
+- Mostly Hindu with 325 unreached people groups
+- Fast growing church despite new restrictions
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/nepal.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/nepal.mp4)

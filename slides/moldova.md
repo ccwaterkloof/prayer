@@ -10,11 +10,11 @@
 
 ## Moldova
 
--   Capital: Chișinău
--   2.6 million people
--   Europe's poorest country, unreached villages
--   Evanghelical Christians: 3% but zealous
+- Capital: Chișinău
+- 2.6 million people
+- Europe's poorest country, unreached villages
+- Evanghelical Christians: 3% but zealous
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/moldova.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/moldova.mp4)

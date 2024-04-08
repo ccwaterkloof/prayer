@@ -10,12 +10,11 @@
 
 ## Belgium
 
--   Capital: Brussels
--   11 million people
--   Rapid growth in Atheism
--   1.2% Evangelicals and growing
+- Capital: Brussels
+- 11 million people
+- Rapid growth in Atheism
+- 1.2% Evangelicals and growing
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/belgium.mp4)
-
+![](https://storage.cloud.google.com/prayer-videos/country/belgium.mp4)

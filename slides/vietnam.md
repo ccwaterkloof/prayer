@@ -10,11 +10,11 @@
 
 ## Vietnam
 
--   Capital: Hanoi
--   95 million people
--   Persecuted, but fast growing church
--   For the few believers to be united and bold
+- Capital: Hanoi
+- 95 million people
+- Persecuted, but fast growing church
+- For the few believers to be united and bold
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/vietnam.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/vietnam.mp4)

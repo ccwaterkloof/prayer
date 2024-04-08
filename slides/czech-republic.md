@@ -19,4 +19,4 @@
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/czech-republic.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/czech-republic.mp4)

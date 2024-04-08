@@ -10,10 +10,11 @@
 
 ## Indonesia
 
--   Capital: Jakarta
--   262 million people
--   Largest Muslim nation, opposition
--   Effective media and church planting
+- Capital: Jakarta
+- 262 million people
+- Largest Muslim nation, opposition
+- Effective media and church planting
 
 ---
-![](https://f000.backblazeb2.com/file/ccw-prayer/indonesia.mp4)
+
+![](https://storage.cloud.google.com/prayer-videos/country/indonesia.mp4)

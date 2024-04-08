@@ -10,11 +10,11 @@
 
 ## Ukraine
 
--   Capital: Kyiv
--   41 million people
--   civil war, drugs and crime
--   mission-minded evangelical church 
+- Capital: Kyiv
+- 41 million people
+- civil war, drugs and crime
+- mission-minded evangelical church
 
 ---
 
-![](https://f000.backblazeb2.com/file/ccw-prayer/ukraine.mp4)
+![](https://storage.cloud.google.com/prayer-videos/country/ukraine.mp4)
