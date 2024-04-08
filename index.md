@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Lesotho](/prayer/notes/lesotho.html)
+This week we pray for [Germany](/prayer/notes/germany.html)
 
-If you missed it, we last prayed for [Eritrea](/prayer/notes/eritrea.html)
+If you missed it, we last prayed for [Lesotho](/prayer/notes/lesotho.html)
 
 ## Prayer App
 

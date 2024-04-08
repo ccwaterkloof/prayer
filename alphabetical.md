@@ -76,6 +76,7 @@ Ethiopia
 
 [Gabon](/prayer/notes/gabon.html)  
 [Georgia](/prayer/notes/georgia.html)  
+[Germany](/prayer/notes/germany.html)  
 [Greece](/prayer/notes/greece.html)  
 [Greenland](/prayer/notes/greenland.html)  
 Guinea
