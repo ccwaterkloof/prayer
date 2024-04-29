@@ -20,4 +20,4 @@
 
 ---
 
-![](https://storage.cloud.google.com/prayer-videos/country/sudan.mp4)
+![](https://storage.googleapis.com/prayer-videos/country/sudan.mp4)

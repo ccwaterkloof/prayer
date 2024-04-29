@@ -184,6 +184,7 @@ Nigeria
 [Saudi Arabia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/saudiarabia.md)  
 [Samoa](/prayer/notes/samoa.html)  
 [San Marino](/prayer/notes/san-marino.html)  
+[São Tomé and Príncipe](/prayer/notes/sao-tome-and-principe.html)  
 [Scotland](/prayer/notes/scotland.html)  
 [Senegal](/prayer/notes/senegal.html)  
 [Serbia](/prayer/notes/serbia.html)  

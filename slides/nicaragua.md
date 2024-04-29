@@ -19,4 +19,4 @@
 
 ---
 
-![](https://storage.cloud.google.com/prayer-videos/country/nicaragua.mp4)
+![](https://storage.googleapis.com/prayer-videos/country/nicaragua.mp4)
