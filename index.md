@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [São Tomé and Príncipe](/prayer/notes/sao-tome-and-principe.html)
+This week we pray for [Montenegro](/prayer/notes/montenegro.html)
 
-If you missed it, we last prayed for [Germany](/prayer/notes/germany.html)
+If you missed it, we last prayed for [São Tomé and Príncipe](/prayer/notes/sao-tome-and-principe.html)
 
 ## Prayer App
 
