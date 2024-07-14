@@ -19,6 +19,7 @@ Angola
 
 [Bahrain](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bahrain.md)  
 [Bangladesh](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bangladesh.md)  
+[Barbados](/prayer/notes/barbados.html)  
 [Belarus](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belarus.md)  
 [Belgium](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/belgium.md)  
 [Belize](/prayer/notes/belize.html)  

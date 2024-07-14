@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Mexico](/prayer/notes/mexico.html)
+This week we pray for [Barbados](/prayer/notes/barbados.html)
 
-If you missed it, we last prayed for [Guatemala](/prayer/notes/guatemala.html)
+If you missed it, we last prayed for [Mexico](/prayer/notes/mexico.html)
 
 ## Prayer App
 
