@@ -8,9 +8,9 @@
 
 ---
 
-## Norway
-
 ![norway](https://res.cloudinary.com/kiekies/image/upload/v1721586663/prayer/fyckdgygckzf5ivogdsb.jpg)
+
+## Norway
 
 - Capital: Oslo
 - 5.5 million people
