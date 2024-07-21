@@ -15,7 +15,7 @@
 - Capital: Oslo
 - 5.5 million people
 - country with highest HDI ranking
-- Greta Christian legacy, but needs revival
+- great Christian legacy, but needs revival
 
 ---
 
