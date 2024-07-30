@@ -8,12 +8,14 @@
 
 ---
 
+![french food](https://res.cloudinary.com/kiekies/image/upload/v1722361482/prayer/nlfrmj2g1dolwh6a3zgg.jpg)
+
 ## France
 
--   Capital: Paris
--   67 million people
--   largely athiest, 1% evangelicals
--   millions of Muslim immigrants
+- Capital: Paris
+- 68 million people
+- largely athiest, 1% evangelicals
+- millions of Muslim immigrants
 
 ---
 

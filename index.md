@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Norway](/prayer/notes/norway.html)
+This week we pray for [France](/prayer/notes/france.html)
 
-If you missed it, we last prayed for [Barbados](/prayer/notes/barbados.html)
+If you missed it, we last prayed for [Norway](/prayer/notes/norway.html)
 
 ## Prayer App
 
