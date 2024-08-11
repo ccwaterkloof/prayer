@@ -150,6 +150,7 @@ Mozambique
 ## N
 
 [Nepal](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/nepal.md)  
+[Netherlands](/prayer/notes/netherlands.html)  
 [New Zealand](/prayer/notes/new-zealand.html)  
 [Nicaragua](/prayer/notes/nicaragua.html)  
 Niger  
