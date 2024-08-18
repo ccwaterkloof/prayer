@@ -16,5 +16,6 @@ title: "French Guiana"
 
 ### Links
 
+- [Slides](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/french-guiana.md)
 - [Operation World](https://operationworld.org/locations/french-guiana/)
 - [Prayercast](https://prayercast.com/prayer-topic/french-guiana/)
