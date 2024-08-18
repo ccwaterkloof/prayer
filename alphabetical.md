@@ -71,7 +71,8 @@ Ethiopia
 
 [Fiji](/prayer/notes/fiji.html)  
 [Finland](/prayer/notes/finland.html)  
-[France](/prayer/notes/france.html)
+[France](/prayer/notes/france.html)  
+[French Guiana](/prayer/notes/french-guiana.html)
 
 ## G
 
