@@ -209,6 +209,7 @@ South Sudan
 [Sudan](/prayer/notes/sudan.html)  
 [Suriname](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/suriname.md)  
 [Sweden](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/sweden.md)  
+[Switzerland](/prayer/notes/switzerland.html)  
 [Syria](/prayer/notes/syria.html) PG
 
 ## T
