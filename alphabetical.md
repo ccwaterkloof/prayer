@@ -220,6 +220,7 @@ South Sudan
 [Thailand](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/thailand.md)  
 [Timor-Leste](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/timor-leste.md)  
 Togo  
+[Trinidad and Tobago](/prayer/notes/trinidad-and-tobago.html)  
 [Tunisia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/tunisia.md)  
 [Turkey](/prayer/notes/turkey.html)  
 [Turkmenistan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/turkmenistan.md)
