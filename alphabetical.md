@@ -34,7 +34,7 @@ Burkina Faso
 
 ## C
 
-[Cambodia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/cambodia.md)  
+[Cambodia](/prayer/notes/cambodia.html)  
 Cameroon  
 [Canada](/prayer/notes/canada.html)  
 Central African Republic  
