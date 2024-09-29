@@ -8,7 +8,7 @@
 
 ---
 
-![homok][https://res.cloudinary.com/kiekies/image/upload/v1727632330/prayer/cnzhae9bbk8cgueyjizg.jpg]
+![homok](https://res.cloudinary.com/kiekies/image/upload/v1727632330/prayer/cnzhae9bbk8cgueyjizg.jpg)
 
 ## Cambodia
 
