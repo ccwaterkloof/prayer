@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Cambodia](/prayer/notes/cambodia.html)
+This week we pray for [Solomon Islands](/prayer/notes/solomon-islands.html)
 
-If you missed it, we last prayed for [Trinidad and Tobago](/prayer/notes/trinidad-and-tobago.html)
+If you missed it, we last prayed for [Cambodia](/prayer/notes/cambodia.html)
 
 ## Prayer App
 
