@@ -41,7 +41,7 @@ Central African Republic
 Chad  
 [Chile](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/chile.md)  
 [China](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/china.md)  
-[Colombia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/colombia.md)  
+[Colombia](/prayer/notes/colombia.html)  
 [Comoros](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/comoros.md)  
 Congo  
 [Costa Rica](/prayer/notes/costa-rica.html)  

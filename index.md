@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Burkina Faso](/prayer/notes/burkina-faso.html)
+This week we pray for [Colombia](/prayer/notes/colombia.html)
 
-If you missed it, we last prayed for [Solomon Islands](/prayer/notes/solomon-islands.html)
+If you missed it, we last prayed for [Burkina Faso](/prayer/notes/burkina-faso.html)
 
 ## Prayer App
 

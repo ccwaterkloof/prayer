@@ -8,12 +8,14 @@
 
 ---
 
+![food](https://res.cloudinary.com/kiekies/image/upload/v1730052363/prayer/v4rwa0e11jpsixuvighb.jpg)
+
 ## Colombia
 
--   Capital: Bogotá
--   48 million people
--   Challenges of drugs and street children
--   Church to have a mission vision
+- Capital: Bogotá
+- 53 million people
+- Evangelical growth
+- Challenges of Venezuelan immigration
 
 ---
 
