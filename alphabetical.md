@@ -126,7 +126,8 @@ Liberia
 [Lebanon](/prayer/notes/lebanon.html)  
 [Lesotho](/prayer/notes/lesotho.html)  
 [Libya](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/libya.md)  
-[Lithuania](/prayer/notes/lithuania.html)
+[Lithuania](/prayer/notes/lithuania.html)  
+[Luxembourg](/prayer/notes/luxembourg.html)
 
 ## M
 
