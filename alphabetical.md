@@ -247,7 +247,7 @@ Togo
 
 ## Y
 
-[Yemen](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/yemen.md)
+[Yemen](/prayer/notes/yemen.html)
 
 ## Z
 

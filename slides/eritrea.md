@@ -8,7 +8,7 @@
 
 ---
 
-![](https://res.cloudinary.com/kiekies/image/upload/v1635793077/ccw/u9gq7ewq0imjp8jyxbzv.jpg)
+![](https://res.cloudinary.com/kiekies/image/upload/v1731869798/prayer/hp9bncp4t8hzseyqmopt.jpg)
 
 ## Eritrea
 

@@ -4,15 +4,17 @@
 
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/6e/Yemen_on_the_globe_%28Yemen_centered%29.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/f/f1/Yemen_%28orthographic_projection%29.svg)
 
 ---
+
+![food](https://res.cloudinary.com/kiekies/image/upload/v1731870360/prayer/nwnwgwotjk3fubud3d6m.jpg)
 
 ## Yemen
 
 - Capital: Sana'a
-- 28 million people
-- 99.9% Muslim, qat addiction
+- 34 million people
+- 99.9% Muslim, courageous believers
 - Children forced into war and starving
 
 ---
