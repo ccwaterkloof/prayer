@@ -8,11 +8,13 @@
 
 ---
 
+![backdrop](https://res.cloudinary.com/kiekies/image/upload/v1737392468/prayer/aebkw2zxjx4v8ulapzhk.jpg)
+
 ## Mozambique
 
 - Capital: Maputo
 - 30 million people
-- ISIS insurgency, poverty
+- Threatening civil war
 - Pray for church leaders
 
 ---

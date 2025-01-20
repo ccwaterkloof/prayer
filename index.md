@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Yemen](/prayer/notes/yemen.html)
+This week we pray for [Mozambique](/prayer/notes/mozanbique.html)
 
-If you missed it, we last prayed for [Luxembourg](/prayer/notes/luxembourg.html)
+If you missed it, we last prayed for [Yemen](/prayer/notes/yemen.html)
 
 ## Prayer App
 
