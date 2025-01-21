@@ -147,7 +147,7 @@ Mauritania
 [Mongolia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/mongolia.md)  
 [Montenegro](/prayer/notes/montenegro.html)  
 [Morocco](/prayer/notes/morocco.html)  
-[Mozambique](/prayer/notes/mozanbique.html)  
+[Mozambique](/prayer/notes/mozambique.html)  
 [Myanmar](/prayer/notes/myanmar.html)
 
 ## N
