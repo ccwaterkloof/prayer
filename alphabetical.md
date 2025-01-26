@@ -37,6 +37,7 @@ Angola
 [Cambodia](/prayer/notes/cambodia.html)  
 Cameroon  
 [Canada](/prayer/notes/canada.html)  
+[Cape Verde](/prayer/notes/cape-verde.html)  
 Central African Republic  
 Chad  
 [Chile](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/chile.md)  
