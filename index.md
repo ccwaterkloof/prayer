@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Cape Verde](/prayer/notes/cape-verde.html)
+This week we pray for [Tunisia](/prayer/notes/tunisia.html)  
 
-If you missed it, we last prayed for [Mozambique](/prayer/notes/mozambique.html)
+If you missed it, we last prayed for [Cape Verde](/prayer/notes/cape-verde.html)
 
 ## Prayer App
 

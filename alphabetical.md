@@ -224,7 +224,7 @@ South Sudan
 [Timor-Leste](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/timor-leste.md)  
 Togo  
 [Trinidad and Tobago](/prayer/notes/trinidad-and-tobago.html)  
-[Tunisia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/tunisia.md)  
+[Tunisia](/prayer/notes/tunisia.html)  
 [Turkey](/prayer/notes/turkey.html)  
 [Turkmenistan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/turkmenistan.md)
 
