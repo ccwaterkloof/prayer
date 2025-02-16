@@ -2,16 +2,18 @@
 
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/19/Afghanistan_%28orthographic_projection%29.svg)
+![](https://storage.googleapis.com/prayer-videos/images/baluch.svg)
 
 ---
+
+![](https://res.cloudinary.com/kiekies/image/upload/v1739735383/prayer/swx4kuob06gmtujtdue0.jpg)
 
 ## Baluch
 
 - 12 million people
 - Sunni Muslims living in Iran, Pakistan and Afghanistan
 - Unreached and almost totally unengaged
-- 
+- Pray for media outreach
 
 ---
 

@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Tunisia](/prayer/notes/tunisia.html)  
+This week we pray for the [Baluch](/prayer/notes/baluch.html) people.
 
-If you missed it, we last prayed for [Cape Verde](/prayer/notes/cape-verde.html)
+If you missed it, we last prayed for [Tunisia](/prayer/notes/tunisia.html)  
 
 ## Prayer App
 
