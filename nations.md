@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Alphabetical Index"
+title: "Nations Index"
 ---
 
 ## A
