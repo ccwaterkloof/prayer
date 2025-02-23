@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Baluch](/prayer/notes/baluch.html) people.
+This week we pray for the [Algerian Arabs](/prayer/notes/algerian-arabs.html) people.
 
-If you missed it, we last prayed for [Tunisia](/prayer/notes/tunisia.html)  
+If you missed it, we last prayed for the [Baluch](/prayer/notes/baluch.html) people.
 
 ## Prayer App
 
