@@ -5,5 +5,6 @@ title: "Peoples Index"
 
 
 [Baluch](/prayer/notes/baluch.html)  
-[Algerian Arabs](/prayer/notes/algerian-arabs.html)
+[Algerian Arabs](/prayer/notes/algerian-arabs.html)  
+[Pashtun](/prayer/notes/pashtun.html)  
 
