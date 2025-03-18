@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Pashtun](/prayer/notes/pashtun.html) people.
+This week we pray for the [Hausa](/prayer/notes/hausa.html) people.
 
-If you missed it, we last prayed for the [Algerian Arabs](/prayer/notes/algerian-arabs.html).
+If you missed it, we last prayed for the [Pashtun](/prayer/notes/pashtun.html).
 
 ## Prayer App
 
