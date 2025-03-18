@@ -17,6 +17,6 @@ Historically, the Hausa brought Arab colonization to the Sahel and led annual ra
 
 ### Links
 
-- [Slides](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/algerian-arabs.md)
+- [Slides](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/hausa.md)
 - [Prayercast](https://prayercast.com/prayer-topic/hausa/)
 - [Joshua Project](https://joshuaproject.net/people_groups/12070)
