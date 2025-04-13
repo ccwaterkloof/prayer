@@ -7,13 +7,15 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Hui](/prayer/notes/hui.html) people.
+This week we pray for the [Iranian Azeri](/prayer/notes/azeri.html) people.
 
-If you missed it, we last prayed for the [Hausa](/prayer/notes/hausa.html).
+If you missed it, we last prayed for the [Hui](/prayer/notes/hui.html).
 
 ## Prayer App
 
-Get the CCW prayer app which helps us to pray for each other. Each day the app will help us to pray for the same Kloofie member. You can also use the app to look up a member by name or see all the birthdays and anniversaries for any month of the year.
+Get the CCW prayer app which helps us to pray for each other. Each day the app will help
+us to pray for the same Kloofie member. You can also use the app to look up a member by
+name or see all the birthdays and anniversaries for any month of the year.
 
 - [Android Play Store](https://play.google.com/store/apps/details?id=org.christchurchwaterkloof.app)
 - [Apple App Store](https://apps.apple.com/za/app/christ-church-waterkloof/id1497566300)
