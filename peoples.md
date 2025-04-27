@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Peoples Index"
+title: 'Peoples Index'
 ---
 
 [Baluch](/prayer/notes/baluch.html)  
@@ -8,4 +8,5 @@ title: "Peoples Index"
 [Pashtun](/prayer/notes/pashtun.html)  
 [Hausa](/prayer/notes/hausa.html)  
 [Hui](/prayer/notes/hui.html)  
-[Iranian Azeri](/prayer/notes/azeri.html)
+[Iranian Azeri](/prayer/notes/azeri.html)  
+[Afar](/prayer/notes/afar.html)
