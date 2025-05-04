@@ -9,4 +9,5 @@ title: 'Peoples Index'
 [Hausa](/prayer/notes/hausa.html)  
 [Hui](/prayer/notes/hui.html)  
 [Iranian Azeri](/prayer/notes/azeri.html)  
-[Afar](/prayer/notes/afar.html)
+[Afar](/prayer/notes/afar.html)  
+[Iraqi Arabs](/prayer/notes/iraqi_arabs.html)
