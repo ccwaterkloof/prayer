@@ -10,4 +10,5 @@ title: 'Peoples Index'
 [Hui](/prayer/notes/hui.html)  
 [Iranian Azeri](/prayer/notes/azeri.html)  
 [Afar](/prayer/notes/afar.html)  
-[Iraqi Arabs](/prayer/notes/iraqi_arabs.html)
+[Iraqi Arabs](/prayer/notes/iraqi_arabs.html)  
+[Jat](/prayer/notes/jat.html)
