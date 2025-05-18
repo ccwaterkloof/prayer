@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Iraqi Arabs](/prayer/notes/iraqi_arabs.html) people.
+This week we pray for the [Jat](/prayer/notes/jat.html) people.
 
-If you missed it, we last prayed for the [Afar](/prayer/notes/afar.html).
+If you missed it, we last prayed for the [Iraqi Arabs](/prayer/notes/iraqi_arabs.html).
 
 ## Prayer App
 
