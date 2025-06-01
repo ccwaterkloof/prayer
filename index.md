@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Pesisir Lor](/prayer/notes/pesisir-lor.html) people from Java.
+This week we pray for the [Jordanian Arab](/prayer/notes/jordanian_arab.html) people.
 
-If you missed it, we last prayed for the [Jat](/prayer/notes/jat.html).
+If you missed it, we last prayed for the [Pesisir Lor](/prayer/notes/pesisir-lor.html).
 
 ## Prayer App
 

@@ -12,4 +12,5 @@ title: 'Peoples Index'
 [Afar](/prayer/notes/afar.html)  
 [Iraqi Arabs](/prayer/notes/iraqi_arabs.html)  
 [Jat](/prayer/notes/jat.html)  
-[Pesisir Lor](/prayer/notes/pesisir-lor.html)
+[Pesisir Lor](/prayer/notes/pesisir-lor.html)  
+[Jordanian Arab](/prayer/notes/jordanian_arab.html)
