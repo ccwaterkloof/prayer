@@ -7,9 +7,10 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Jordanian Arab](/prayer/notes/jordanian_arab.html) people.
+This week we pray for the [Moroccan Arab](/prayer/notes/moroccan-arabs.html) people.
 
-If you missed it, we last prayed for the [Pesisir Lor](/prayer/notes/pesisir-lor.html).
+If you missed it, we last prayed for the
+[Jordanian Arab](/prayer/notes/jordanian_arab.html) people.
 
 ## Prayer App
 
