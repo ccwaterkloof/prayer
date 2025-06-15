@@ -14,4 +14,5 @@ title: 'Peoples Index'
 [Jat](/prayer/notes/jat.html)  
 [Pesisir Lor](/prayer/notes/pesisir-lor.html)  
 [Jordanian Arab](/prayer/notes/jordanian_arab.html)  
-[Moroccan Arab](/prayer/notes/moroccan-arabs.html)
+[Moroccan Arab](/prayer/notes/moroccan-arabs.html)  
+[Persian](/prayer/notes/persian.html)
