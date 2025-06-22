@@ -7,10 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Persian](/prayer/notes/persian.html) people.
+This week we pray for [Botswana](/prayer/notes/botswana.html).
 
-If you missed it, we last prayed for the
-[Moroccan Arab](/prayer/notes/moroccan-arabs.html) people.
+If you missed it, we last prayed for the [Persian](/prayer/notes/persian.html) people.
 
 ## Prayer App
 

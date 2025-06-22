@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nations Index"
+title: 'Nations Index'
 ---
 
 ## A
@@ -27,6 +27,7 @@ Angola
 [Bhutan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bhutan.md)  
 [Bolivia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/bolivia.md)  
 [Bosnia and Herzegovina](/prayer/notes/bosnia.html)  
+[Botswana](/prayer/notes/botswana.html)  
 [Brazil](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/brazil.md)  
 [Brunei](/prayer/notes/brunei.html)  
 [Bulgaria](/prayer/notes/bulgaria.html)
