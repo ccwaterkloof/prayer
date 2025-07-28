@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Botswana](/prayer/notes/botswana.html).
+This week we pray for the [Rajput](/prayer/notes/rajput.html) people of South Asia.
 
-If you missed it, we last prayed for the [Persian](/prayer/notes/persian.html) people.
+If you missed it, we last prayed for [Botswana](/prayer/notes/botswana.html).
 
 ## Prayer App
 

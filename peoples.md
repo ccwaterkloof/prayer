@@ -15,4 +15,5 @@ title: 'Peoples Index'
 [Pesisir Lor](/prayer/notes/pesisir-lor.html)  
 [Jordanian Arab](/prayer/notes/jordanian_arab.html)  
 [Moroccan Arab](/prayer/notes/moroccan-arabs.html)  
-[Persian](/prayer/notes/persian.html)
+[Persian](/prayer/notes/persian.html)  
+[Rajput](/prayer/notes/rajput.html)
