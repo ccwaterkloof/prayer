@@ -1,13 +1,20 @@
 ---
 layout: nation
-title: "Syria"
+title: 'Syria'
 ---
 
 # Strategic prayer
 
-- Pray for a swift end to the horrific civil war with people of peace rising to leadership.
-- Since the sart of the civil war in 2011, millions of Syrians have sought refuge in neighboring countries and around the world: 2.7 million in Turkey, about 1 million in Lebanon, and over 655,000 in Jordan. Additionally, the war has caused the displacement of over six million people within Syria. Pray for Jesus to reveal Himself to the millions of Muslims displaced by the war.
-- Approximately half the Christian population have fled for their lives, leaving only about 200,000 to 250,000 believers in Syria - many of which are displaced. Pray for the Church to be protected and expanded amid hostility.
+- Violence that erupted since the fall of the Assad regime has targeted ethnic and
+  religious minorities, political rivals and the Christian Druze community
+- Since the start of the civil war in 2011, millions of Syrians have sought refuge in
+  neighboring countries and around the world: 2.7 million in Turkey, about 1 million in
+  Lebanon, and over 655,000 in Jordan. Additionally, the war has caused the displacement
+  of over six million people within Syria. Pray for Jesus to reveal Himself to the
+  millions of Muslims displaced by the war.
+- Approximately half the Christian population have fled for their lives, leaving only
+  about 250,000 to 300,000 believers in Syria - many of which are displaced. Pray for the
+  Church to be protected and expanded amid hostility.
 
 ### Links
 

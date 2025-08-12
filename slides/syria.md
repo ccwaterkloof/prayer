@@ -13,7 +13,7 @@
 ## Syria
 
 - Capital: Damascus
-- 22 million people
+- 24 million people
 - horrific civil war since 2011
 - millions of Muslims displaced by the war
 

@@ -7,9 +7,10 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Rajput](/prayer/notes/rajput.html) people of South Asia.
+This week we pray again for [Syria](/prayer/notes/syria.html).
 
-If you missed it, we last prayed for [Botswana](/prayer/notes/botswana.html).
+If you missed it, we last prayed for [Rajput](/prayer/notes/rajput.html) people of South
+Asia.
 
 ## Prayer App
 
