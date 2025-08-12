@@ -1,10 +1,10 @@
 ### Flag
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg)
+![flag](https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg)
 
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/11/Syria_%28orthographic_projection%29.svg)
+![map](https://upload.wikimedia.org/wikipedia/commons/1/11/Syria_%28orthographic_projection%29.svg)
 
 ---
 
