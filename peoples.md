@@ -16,4 +16,5 @@ title: 'Peoples Index'
 [Jordanian Arab](/prayer/notes/jordanian_arab.html)  
 [Moroccan Arab](/prayer/notes/moroccan-arabs.html)  
 [Persian](/prayer/notes/persian.html)  
-[Rajput](/prayer/notes/rajput.html)
+[Rajput](/prayer/notes/rajput.html)  
+[Saidi Arab](/prayer/notes/saidi-arabs.html)  

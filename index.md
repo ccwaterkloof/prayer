@@ -7,10 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray again for [Syria](/prayer/notes/syria.html).
+This week we pray for the [Saidi Arab](/prayer/notes/saidi-arabs.html) of Upper Egypt.
 
-If you missed it, we last prayed for [Rajput](/prayer/notes/rajput.html) people of South
-Asia.
+If you missed it, we last prayed for [Syria](/prayer/notes/syria.html).
 
 ## Prayer App
 
