@@ -18,3 +18,4 @@ title: 'Peoples Index'
 [Persian](/prayer/notes/persian.html)  
 [Rajput](/prayer/notes/rajput.html)  
 [Saidi Arab](/prayer/notes/saidi-arabs.html)  
+[Shaikh](/prayer/notes/shaikh.html)
