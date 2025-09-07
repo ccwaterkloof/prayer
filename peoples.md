@@ -19,4 +19,5 @@ title: 'Peoples Index'
 [Rajput](/prayer/notes/rajput.html)  
 [Saidi Arab](/prayer/notes/saidi-arabs.html)  
 [Shaikh](/prayer/notes/shaikh.html)  
-[Yemeni Arab](/prayer/notes/yemeni-arab.html)
+[Yemeni Arab](/prayer/notes/yemeni-arab.html)  
+[Sudanese Arabs](/prayer/notes/sudan-arabs.html)

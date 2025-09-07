@@ -7,9 +7,10 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Yemeni Arab](/prayer/notes/yemeni-arab.html) people.
+This week we pray for the [Sudanese Arab](/prayer/notes/sudan-arabs.html) people.
 
-If you missed it, we last prayed for [Shaikh](/prayer/notes/shaikh.html) of South Asia.
+If you missed it, we last prayed for [Yemeni Arab](/prayer/notes/yemeni-arab.html) people
+of South Yemen.
 
 ## Prayer App
 
