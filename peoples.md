@@ -20,4 +20,5 @@ title: 'Peoples Index'
 [Saidi Arab](/prayer/notes/saidi-arabs.html)  
 [Shaikh](/prayer/notes/shaikh.html)  
 [Yemeni Arab](/prayer/notes/yemeni-arab.html)  
-[Sudanese Arabs](/prayer/notes/sudan-arabs.html)
+[Sudanese Arabs](/prayer/notes/sudan-arabs.html)  
+[Sunda](/prayer/notes/sunda.html)
