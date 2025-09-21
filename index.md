@@ -7,10 +7,11 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Sunda](/prayer/notes/sunda.html) of Western Java.
+This week we pray for the [Najdi Arabs](/prayer/notes/saudi-arabs.html) of Central Saudi
+Arabia.
 
-If you missed it, we last prayed for the [Sudanese Arab](/prayer/notes/sudan-arabs.html)
-people.
+If you missed it, we last prayed for the [Sunda](/prayer/notes/sunda.html) of Western
+Java. people.
 
 ## Prayer App
 
