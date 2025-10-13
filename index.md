@@ -7,7 +7,7 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Madagascar](/prayer/notes/madagascar.md).
+This week we pray for [Madagascar](/prayer/notes/madagascar.html).
 
 If you missed it, we last prayed for the [Najdi Arabs](/prayer/notes/saudi-arabs.html) of
 Central Saudi Arabia.

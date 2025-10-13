@@ -135,7 +135,7 @@ Liberia
 
 [Macau](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/macau.md)  
 [Macedonia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/macedonia.md)  
-[Madagascar](/prayer/notes/madagascar.md)  
+[Madagascar](/prayer/notes/madagascar.html)  
 Malawi  
 [Malaysia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/malaysia.md)  
 [Maldives](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/maldives.md)  
