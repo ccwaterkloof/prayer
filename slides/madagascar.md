@@ -8,13 +8,15 @@
 
 ---
 
+![](https://res.cloudinary.com/kiekies/image/upload/v1760367317/prayer/ngyytbliypddchxv4jme.jpg)
+
 ## Madagascar
 
--   Capital: Antananarivo
--   25 million people
--   Poverty, Christian leader training
--   10 major Bible translation projects
+- Capital: Antananarivo
+- 29 million people
+- Leadership: Christian and government
+- 10 major Bible translation projects
 
 ---
 
-![](https://player.vimeo.com/video/44317241)
+![](https://storage.googleapis.com/prayer-videos/country/madagascar.mp4)
