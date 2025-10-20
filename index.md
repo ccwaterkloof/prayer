@@ -7,10 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Madagascar](/prayer/notes/madagascar.html).
+This week we pray for the [Sunni Zaza](/prayer/notes/zaza.html) people in Turkey.
 
-If you missed it, we last prayed for the [Najdi Arabs](/prayer/notes/saudi-arabs.html) of
-Central Saudi Arabia.
+If you missed it, we last prayed for [Madagascar](/prayer/notes/madagascar.html).
 
 ## Prayer App
 
