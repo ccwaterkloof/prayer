@@ -9,13 +9,14 @@
 ---
 
 ![](https://res.cloudinary.com/kiekies/image/upload/v1623092312/oivkowfmsue0dkfrlfb8.jpg)
+
 ## Palestine
 
--   Capital: Ramallah
--   5 million people, 1.6% Christians
--   Warm, welcoming, hardworking and honest people
--  Remarkable courage and resilience in the face of war
--   Church is zealous for revival
+- Capital: Ramallah
+- 5 million people, 1.6% Christians
+- Warm, welcoming, hardworking and honest people
+- Remarkable courage and resilience in the face of war
+- Church is zealous for revival
 
 ---
 
