@@ -7,10 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Zimbabwe](/prayer/notes/zimbabwe.html).
+This week we pray for the [Uyghur](/prayer/notes/uyghur.html) people of China.
 
-If you missed it, we last prayed for the [Sunni Zaza](/prayer/notes/zaza.html) people in
-Turkey.
+If you missed it, we last prayed for [Zimbabwe](/prayer/notes/zimbabwe.html).
 
 ## Prayer App
 

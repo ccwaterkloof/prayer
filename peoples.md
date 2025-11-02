@@ -23,4 +23,5 @@ title: 'Peoples Index'
 [Sudanese Arabs](/prayer/notes/sudan-arabs.html)  
 [Sunda](/prayer/notes/sunda.html)  
 [Najdi Arabs](/prayer/notes/saudi-arabs.html)  
-[Sunni Zaza](/prayer/notes/zaza.html)
+[Sunni Zaza](/prayer/notes/zaza.html)  
+[Uyghur](/prayer/notes/uyghur.html)
