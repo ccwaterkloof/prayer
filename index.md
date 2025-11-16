@@ -7,9 +7,11 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the [Uyghur](/prayer/notes/uyghur.html) people of China.
+This week we pray for
+[the conflict in Sudan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/flash-sudan.md).
 
-If you missed it, we last prayed for [Zimbabwe](/prayer/notes/zimbabwe.html).
+If you missed it, we last prayed for the [Uyghur](/prayer/notes/uyghur.html) people of
+China.
 
 ## Prayer App
 
