@@ -159,7 +159,8 @@ Mauritania
 [New Zealand](/prayer/notes/new-zealand.html)  
 [Nicaragua](/prayer/notes/nicaragua.html)  
 Niger  
-Nigeria  
+[Nigeria](/prayer/notes/nigeria.html)
+PG  
 [North Korea](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/northkorea.md)  
 [Norway](/prayer/notes/norway.html)
 

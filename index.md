@@ -7,11 +7,10 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for
-[the conflict in Sudan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/flash-sudan.md).
+This week we pray for [Nigeria](/prayer/notes/nigeria.html). Parental guidance advised.
 
-If you missed it, we last prayed for the [Uyghur](/prayer/notes/uyghur.html) people of
-China.
+If you missed it, we last prayed for
+[the conflict in Sudan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/flash-sudan.md).
 
 ## Prayer App
 
