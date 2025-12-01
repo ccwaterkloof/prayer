@@ -7,10 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Nigeria](/prayer/notes/nigeria.html). Parental guidance advised.
+This week we pray for [Lebanon](/prayer/notes/lebanon.html).
 
-If you missed it, we last prayed for
-[the conflict in Sudan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/flash-sudan.md).
+If you missed it, we last prayed for [Nigeria](/prayer/notes/nigeria.html).
 
 ## Prayer App
 
