@@ -97,7 +97,7 @@ Guinea
 ## I
 
 [Iceland](/prayer/notes/iceland.html)  
-[India](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/india.md)  
+[India](/prayer/notes/india.html)  
 [Indonesia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/indonesia.md)  
 [Iran](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/iran.md)  
 [Iraq](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/iraq.md) PG  

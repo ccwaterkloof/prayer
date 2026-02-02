@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Lebanon](/prayer/notes/lebanon.html).
+This week we pray for [India](/prayer/notes/india.html).
 
-If you missed it, we last prayed for [Nigeria](/prayer/notes/nigeria.html).
+If you missed it, we last prayed for [Lebanon](/prayer/notes/lebanon.html).
 
 ## Prayer App
 

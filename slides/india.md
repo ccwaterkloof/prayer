@@ -1,12 +1,14 @@
 ### Flag
 
-![](https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg)
+![flag](https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg)
 
---------------------
+---
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/bb/India_%28orthographic_projection%29.svg)
+![map](https://upload.wikimedia.org/wikipedia/commons/b/bb/India_%28orthographic_projection%29.svg)
 
---------------------
+---
+
+![ritual](https://res.cloudinary.com/kiekies/image/upload/v1770059666/prayer/yt2tvb1laswslcopi2s4.jpg)
 
 ## India
 
@@ -15,7 +17,6 @@
 - Renewed Hindu oppression under Narendra Modi
 - Training: 1 pastor per 6 congregations
 
---------------------
+---
 
 ![](https://player.vimeo.com/video/23640682)
-
