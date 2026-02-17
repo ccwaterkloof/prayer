@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [India](/prayer/notes/india.html).
+As Ramadan starts this week we pray for [Muslims](/prayer/notes/muslims.html).
 
-If you missed it, we last prayed for [Lebanon](/prayer/notes/lebanon.html).
+If you missed it, we last prayed for [India](/prayer/notes/india.html).
 
 ## Prayer App
 
