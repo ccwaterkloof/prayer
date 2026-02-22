@@ -25,4 +25,5 @@ title: 'Peoples Index'
 [Najdi Arabs](/prayer/notes/saudi-arabs.html)  
 [Sunni Zaza](/prayer/notes/zaza.html)  
 [Uyghur](/prayer/notes/uyghur.html)  
-[Muslims](/prayer/notes/muslims.html)
+[Muslims](/prayer/notes/muslims.html)  
+[North Africa](/prayer/notes/north-africa.html)
