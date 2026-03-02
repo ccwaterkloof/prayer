@@ -7,9 +7,10 @@ layout: home
 
 ## Mission prayer
 
-As Ramadan continues we pray for [North Africa](/prayer/notes/north-africa.html).
+With the death of the Iranian supreme leader this weekend we pray for the
+[Persian World](/prayer/notes/persian-world.html).
 
-If you missed it, we last prayed for [Muslims](/prayer/notes/muslims.html).
+If you missed it, we last prayed for [North Africa](/prayer/notes/north-africa.html).
 
 ## Prayer App
 

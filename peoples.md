@@ -26,4 +26,5 @@ title: 'Peoples Index'
 [Sunni Zaza](/prayer/notes/zaza.html)  
 [Uyghur](/prayer/notes/uyghur.html)  
 [Muslims](/prayer/notes/muslims.html)  
-[North Africa](/prayer/notes/north-africa.html)
+[North Africa](/prayer/notes/north-africa.html)  
+[Persian World](/prayer/notes/persian-world.html)
