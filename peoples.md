@@ -27,4 +27,5 @@ title: 'Peoples Index'
 [Uyghur](/prayer/notes/uyghur.html)  
 [Muslims](/prayer/notes/muslims.html)  
 [North Africa](/prayer/notes/north-africa.html)  
-[Persian World](/prayer/notes/persian-world.html)
+[Persian World](/prayer/notes/persian-world.html)  
+[Balkan Muslims](/prayer/notes/east-europe-muslims.html)
