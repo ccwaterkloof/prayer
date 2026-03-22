@@ -7,11 +7,11 @@ layout: home
 
 ## Mission prayer
 
-Part of ramadan series, this week we pray for the
-[Muslims of Eastern Europe](/prayer/notes/east-europe-muslims.html).
+This week we pray for the largest country in West Africa -
+[Mali](/prayer/notes/mali.html).
 
 If you missed it, we last prayed for the
-[Persian World](/prayer/notes/persian-world.html).
+[Muslims of Eastern Europe](/prayer/notes/east-europe-muslims.html).
 
 ## Prayer App
 

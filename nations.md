@@ -139,7 +139,7 @@ Liberia
 Malawi  
 [Malaysia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/malaysia.md)  
 [Maldives](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/maldives.md)  
-Mali  
+[Mali](/prayer/notes/mali.html)  
 [Malta](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/malta.md)  
 Mauritania  
 [Mauritius](/prayer/notes/mauritius.html)  
