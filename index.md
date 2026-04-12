@@ -7,11 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the largest country in West Africa -
-[Mali](/prayer/notes/mali.html).
+This week we pray for [Burundi](/prayer/notes/burundi.html). .
 
-If you missed it, we last prayed for the
-[Muslims of Eastern Europe](/prayer/notes/east-europe-muslims.html).
+If you missed it, we last prayed for [Mali](/prayer/notes/mali.html).
 
 ## Prayer App
 

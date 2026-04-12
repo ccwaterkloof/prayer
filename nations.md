@@ -30,8 +30,9 @@ Angola
 [Botswana](/prayer/notes/botswana.html)  
 [Brazil](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/brazil.md)  
 [Brunei](/prayer/notes/brunei.html)  
-[Bulgaria](/prayer/notes/bulgaria.html)
-[Burkina Faso](/prayer/notes/burkina-faso.html)
+[Bulgaria](/prayer/notes/bulgaria.html)  
+[Burkina Faso](/prayer/notes/burkina-faso.html)  
+[Burundi](/prayer/notes/burundi.html)
 
 ## C
 
