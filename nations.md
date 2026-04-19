@@ -11,6 +11,7 @@ Algeria
 Angola  
 [Argentina](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/argentina.md)  
 [Armenia](/prayer/notes/armenia.html)  
+[Aruba](/prayer/notes/aruba.html)  
 [Australia](/prayer/notes/australia.html)  
 [Austria](/prayer/notes/austria.html)  
 [Azerbaijan](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/azerbaijan.md)

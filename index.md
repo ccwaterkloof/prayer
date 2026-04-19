@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Burundi](/prayer/notes/burundi.html). .
+This week we pray for [Aruba](/prayer/notes/aruba.html)
 
-If you missed it, we last prayed for [Mali](/prayer/notes/mali.html).
+If you missed it, we last prayed for [Burundi](/prayer/notes/burundi.html).
 
 ## Prayer App
 
