@@ -28,4 +28,5 @@ title: 'Peoples Index'
 [Muslims](/prayer/notes/muslims.html)  
 [North Africa](/prayer/notes/north-africa.html)  
 [Persian World](/prayer/notes/persian-world.html)  
-[Balkan Muslims](/prayer/notes/east-europe-muslims.html)
+[Balkan Muslims](/prayer/notes/east-europe-muslims.html)  
+[Eastern South Asia](/prayer/notes/eastern-south-asia.html)

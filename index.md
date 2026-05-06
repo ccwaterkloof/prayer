@@ -7,9 +7,10 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Aruba](/prayer/notes/aruba.html)
+This week we pray for the people of
+[Eastern South Asia](/prayer/notes/eastern-south-asia.html).
 
-If you missed it, we last prayed for [Burundi](/prayer/notes/burundi.html).
+If you missed it, we last prayed for [Aruba](/prayer/notes/aruba.html).
 
 ## Prayer App
 
