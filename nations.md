@@ -49,9 +49,10 @@ Chad
 [Comoros](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/comoros.md)  
 Congo  
 [Costa Rica](/prayer/notes/costa-rica.html)  
+Côte d'Ivoire  
 [Croatia](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/croatia.md)  
 [Cuba](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/cuba.md)  
-Côte d'Ivoire  
+[Curacao](/prayer/notes/curacao.html)  
 [Cyprus](/prayer/notes/cyprus.html)  
 [Czech Republic](/prayer/notes/czech-republic.html)
 

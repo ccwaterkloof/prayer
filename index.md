@@ -7,10 +7,10 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the people of
-[Eastern South Asia](/prayer/notes/eastern-south-asia.html).
+This week we pray for the island of [Curacao](/prayer/notes/curacao.html).
 
-If you missed it, we last prayed for [Aruba](/prayer/notes/aruba.html).
+If you missed it, we last prayed for the people of
+[Eastern South Asia](/prayer/notes/eastern-south-asia.html).
 
 ## Prayer App
 
