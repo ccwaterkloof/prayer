@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Central Asia](/prayer/notes/central-asia.html).
+This week we pray for [Eswatini](/prayer/notes/eswatini.html).
 
-If you missed it, we last prayed for the island of [Curacao](/prayer/notes/curacao.html).
+If you missed it, we last prayed for [Central Asia](/prayer/notes/central-asia.html).
 
 ## Prayer App
 
