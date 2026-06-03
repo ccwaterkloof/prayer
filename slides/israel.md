@@ -17,4 +17,4 @@
 
 ---
 
-![](https://storage.googleapis.com/prayer-videos/country/israel.mp4)
+![](https://player.vimeo.com/video/22404182)
