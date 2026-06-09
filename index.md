@@ -7,9 +7,10 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Eswatini](/prayer/notes/eswatini.html).
+This week we pray for [The Democratic Republic of the Congo](/prayer/notes/drc.html).
 
-If you missed it, we last prayed for [Central Asia](/prayer/notes/central-asia.html).
+If you missed it, we last prayed for
+[Israel](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/israel.md).
 
 ## Prayer App
 

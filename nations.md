@@ -59,9 +59,10 @@ Côte d'Ivoire
 ## D
 
 [Denmark](/prayer/notes/denmark.html)  
+[DR Congo](/prayer/notes/drc.html)  
+[Djibouti](/prayer/notes/djibouti.html)  
 [Dominican Republic](/prayer/notes/dominican-republic.html)  
-[Dominica](/prayer/notes/dominica.html)  
-[Djibouti](/prayer/notes/djibouti.html)
+[Dominica](/prayer/notes/dominica.html)
 
 ## E
 
