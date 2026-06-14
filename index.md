@@ -7,10 +7,10 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [The Democratic Republic of the Congo](/prayer/notes/drc.html).
+This week we pray for the peoples of [Indo Malaysia](/prayer/notes/indo-malaysia.html).
 
 If you missed it, we last prayed for
-[Israel](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/israel.md).
+[The Democratic Republic of the Congo](/prayer/notes/drc.html).
 
 ## Prayer App
 

@@ -30,4 +30,5 @@ title: 'Peoples Index'
 [Persian World](/prayer/notes/persian-world.html)  
 [Balkan Muslims](/prayer/notes/east-europe-muslims.html)  
 [Eastern South Asia](/prayer/notes/eastern-south-asia.html)  
-[Central Asia](/prayer/notes/central-asia.html)
+[Central Asia](/prayer/notes/central-asia.html)  
+[Indo Malaysia](/prayer/notes/indo-malaysia.html)
