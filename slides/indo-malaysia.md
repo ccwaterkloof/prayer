@@ -10,7 +10,7 @@
 
 ## Indo Malaysia
 
-- 420 million Turkic people, mostly Muslim
+- 420 million people, mostly Muslim
 - Pulled between Folk Islam and Islamists
 - Rapid development, rising tensions
 - Big pockets of minority believers
