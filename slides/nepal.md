@@ -8,10 +8,12 @@
 
 ---
 
+![kathmandu](https://res.cloudinary.com/kiekies/image/upload/v1788114429/prayer/spkgmxxlklvov7fjnfbb.jpg)
+
 ## Nepal
 
 - Capital: Kathmandu
-- 29 million people
+- 30 million people
 - Mostly Hindu with 325 unreached people groups
 - Fast growing church despite new restrictions
 

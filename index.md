@@ -7,10 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for the peoples of [Indo Malaysia](/prayer/notes/indo-malaysia.html).
+This week we pray for [Nepal](/prayer/notes/nepal.html).
 
-If you missed it, we last prayed for
-[The Democratic Republic of the Congo](/prayer/notes/drc.html).
+We last prayed for the peoples of [Indo Malaysia](/prayer/notes/indo-malaysia.html).
 
 ## Prayer App
 

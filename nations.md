@@ -159,13 +159,12 @@ Mauritania
 
 ## N
 
-[Nepal](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/nepal.md)  
+[Nepal](/prayer/notes/nepal.html)  
 [Netherlands](/prayer/notes/netherlands.html)  
 [New Zealand](/prayer/notes/new-zealand.html)  
 [Nicaragua](/prayer/notes/nicaragua.html)  
 Niger  
-[Nigeria](/prayer/notes/nigeria.html)
-PG  
+[Nigeria](/prayer/notes/nigeria.html) PG  
 [North Korea](http://kyk.kiekies.net/?src=https://ccwaterkloof.github.io/prayer/slides/northkorea.md)  
 [Norway](/prayer/notes/norway.html)
 
