@@ -7,9 +7,9 @@ layout: home
 
 ## Mission prayer
 
-This week we pray for [Nepal](/prayer/notes/nepal.html).
+This week we pray for [Zambia](/prayer/notes/zambia.html).
 
-We last prayed for the peoples of [Indo Malaysia](/prayer/notes/indo-malaysia.html).
+We last prayed for [Nepal](/prayer/notes/nepal.html).
 
 ## Prayer App
 
