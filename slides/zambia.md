@@ -1,5 +1,3 @@
-### Flag
-
 ![flag](https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg)
 
 ---
@@ -10,7 +8,7 @@
 
 ![market](https://res.cloudinary.com/kiekies/image/upload/v1788717062/prayer/djgaenhad6eldshdabos.jpg)
 
-## Nepal
+## Zambia
 
 - Capital: Lusaka
 - 20 million people, 25% evengelical
